@@ -23,5 +23,6 @@ jobs:
       uses: gautamkrishnar/blog-post-workflow@master
       with:
         comment_tag_name: CHANNEL_PROJECTS
-        max_post_count: 10000
+        max_post_count: 100000
         feed_list: "https://github-feed-generator.vercel.app/api/topic/devsoutinho"
+        template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) $title $url"
