@@ -27,10 +27,11 @@ Would you like to find me?
 <details>
   <summary>Click to look!</summary>
 
+
+<!-- CHANNEL_PROJECTS:START -->
 | Table |
 | --- |
 | ... |
-<!-- CHANNEL_PROJECTS:START -->
  | 🌮 omariosouto/devsoutinhoflix https://github.com/omariosouto/devsoutinhoflix <img src='https://gerador-de-imagens-omariosouto-alura-challenges.vercel.app/api/image-generator?url=https://github.com/omariosouto/devsoutinhoflix'/> |
  | 💯 alura-challenges/aluraquiz-base https://github.com/alura-challenges/aluraquiz-base <img src='https://gerador-de-imagens-omariosouto-alura-challenges.vercel.app/api/image-generator?url=https://github.com/alura-challenges/aluraquiz-base'/> |
  | 🌮 omariosouto/flappy-bird-devsoutinho https://github.com/omariosouto/flappy-bird-devsoutinho <img src='https://gerador-de-imagens-omariosouto-alura-challenges.vercel.app/api/image-generator?url=https://github.com/omariosouto/flappy-bird-devsoutinho'/> |
