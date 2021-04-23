@@ -23,7 +23,9 @@ Would you like to find me?
 - [Webmaster, FullStack ou Dev em T? | feat. Caio Incau, Keit Oliveira e Paulo Silveira!](https://www.youtube.com/watch?v=B0hQgcolYxc)
 <!-- YOUTUBE:END -->
 
-### Sample Test!
+### Channel Community Projects \o/
+<details>
+  <summary>Click to look!</summary>
 
 <!-- CHANNEL_PROJECTS:START -->
 - [omariosouto/devsoutinhoflix](https://github.com/omariosouto/devsoutinhoflix)
@@ -69,3 +71,5 @@ Would you like to find me?
 - [rjramos70/flappy-bird](https://github.com/rjramos70/flappy-bird)
 - [GustavoHerreroNunes/flappy_Bird-Jogo_Javascrpit](https://github.com/GustavoHerreroNunes/flappy_Bird-Jogo_Javascrpit)
 <!-- CHANNEL_PROJECTS:END -->
+
+</details>
