@@ -15,12 +15,6 @@ Would you like to find me?
 - [A MELHOR FEATURE pra se ORGANIZAR de forma geral no NOTION! | WeekLinks a NewsLetter do DevSoutinho](https://www.youtube.com/watch?v=GwXn1oQ2BGM)
 - [Seu SITE tá QUEBRADO E VOCÊ NÃO SABE! Como fazer compatibilidade de browser do jeito certo?](https://www.youtube.com/watch?v=k2pl8NhL_C8)
 - [Como APRENDER um FRAMEWORK Front End? Como eu aprendi Angular?](https://www.youtube.com/watch?v=mMMqMk2buzs)
-- [Como colocar seu projeto no ar DE GRAÇA via GitHub! | Hospedagem com GitHub Pages](https://www.youtube.com/watch?v=BU-w2_Aae54)
-- [Como ter mais PRODUTIVIDADE COMO DEV no WINDOWS | Setup de programas para trabalhar como Front End](https://www.youtube.com/watch?v=MdMT9litmvY)
-- [O MAIOR ERRO de PERFORMANCE em projetos NextJS! | Como adicionar GraphQL em um projeto NextJS](https://www.youtube.com/watch?v=7k_2V10H5j0)
-- [Como compartilhar seu LOCALHOST com O MUNDO usando Ngrok!](https://www.youtube.com/watch?v=KbO2_yJowXg)
-- [Minhas TOP 3 FEATURES FAVORITAS do #JavaScript!](https://www.youtube.com/watch?v=0-Gtl8nAw3c)
-- [Webmaster, FullStack ou Dev em T? | feat. Caio Incau, Keit Oliveira e Paulo Silveira!](https://www.youtube.com/watch?v=B0hQgcolYxc)
 <!-- YOUTUBE:END -->
 
 ### Channel Community Projects \o/
