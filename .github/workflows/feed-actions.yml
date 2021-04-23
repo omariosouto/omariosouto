@@ -25,4 +25,4 @@ jobs:
         comment_tag_name: CHANNEL_PROJECTS
         max_post_count: 100000
         feed_list: "https://github-feed-generator.vercel.app/api/topic/devsoutinho"
-        template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) $title $url <img width='300px' src='https://gerador-de-imagens-omariosouto-alura-challenges.vercel.app/api/image-generator?url=$url'/>"
+        template: "$newline| $randomEmoji(💯,🔥,💫,🚀,🌮) $title $url <img width='300px' src='https://gerador-de-imagens-omariosouto-alura-challenges.vercel.app/api/image-generator?url=$url'/>"
