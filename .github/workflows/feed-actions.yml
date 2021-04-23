@@ -24,5 +24,5 @@ jobs:
       with:
         comment_tag_name: CHANNEL_PROJECTS
         max_post_count: 100000
-        feed_list: "https://github-feed-generator.vercel.app/api/topic/devsoutinho"
+        feed_list: "https://github-feed-generator-theta.vercel.app/api/topic/aluraquiz"
         template: "$newline| [$title]($url) | <img width='500px' src='https://gerador-de-imagens-omariosouto-alura-challenges.vercel.app/api/image-generator?url=$url'/>"
