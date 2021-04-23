@@ -18,3 +18,10 @@ jobs:
         comment_tag_name: YOUTUBE
         max_post_count: 10
         feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCzR2u5RWXWjUh7CwLSvbitA"
+
+    - name: Get DevSoutinho Project by topic on GitHub
+      uses: gautamkrishnar/blog-post-workflow@master
+      with:
+        comment_tag_name: CHANNEL_PROJECTS
+        max_post_count: 10000
+        feed_list: "https://github-feed-generator.vercel.app/api/topic/devsoutinho"
