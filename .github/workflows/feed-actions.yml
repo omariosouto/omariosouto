@@ -1,0 +1,19 @@
+on:
+  push:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  external_info:
+    runs-on: ubuntu-latest
+    name: Get external info
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Get YouTube Videos
+      uses: gautamkrishnar/blog-post-workflow@master
+      with:
+        comment_tag_name: YOUTUBE
+        feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCzR2u5RWXWjUh7CwLSvbitA"
