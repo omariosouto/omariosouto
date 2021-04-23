@@ -31,10 +31,8 @@ Would you like to find me?
 | Table |
 | --- |
 | First cell |
-| <!-- CHANNEL_PROJECTS:START --> |
-| 🌮 omariosouto/devsoutinhoflix https://github.com/omariosouto/devsoutinhoflix <img width='300px' src='https://gerador-de-imagens-omariosouto-alura-challenges.vercel.app/api/image-generator?url=https://github.com/omariosouto/devsoutinhoflix'/> |
-
-
+| <!-- CHANNEL_PROJECTS:START -->
+ - 🌮 omariosouto/devsoutinhoflix https://github.com/omariosouto/devsoutinhoflix <img width='300px' src='https://gerador-de-imagens-omariosouto-alura-challenges.vercel.app/api/image-generator?url=https://github.com/omariosouto/devsoutinhoflix'/>
  - 💯 alura-challenges/aluraquiz-base https://github.com/alura-challenges/aluraquiz-base <img width='300px' src='https://gerador-de-imagens-omariosouto-alura-challenges.vercel.app/api/image-generator?url=https://github.com/alura-challenges/aluraquiz-base'/>
  - 🌮 omariosouto/flappy-bird-devsoutinho https://github.com/omariosouto/flappy-bird-devsoutinho <img width='300px' src='https://gerador-de-imagens-omariosouto-alura-challenges.vercel.app/api/image-generator?url=https://github.com/omariosouto/flappy-bird-devsoutinho'/>
  - 🚀 omariosouto/aluraquiz-devsoutinho https://github.com/omariosouto/aluraquiz-devsoutinho <img width='300px' src='https://gerador-de-imagens-omariosouto-alura-challenges.vercel.app/api/image-generator?url=https://github.com/omariosouto/aluraquiz-devsoutinho'/>
