@@ -28,48 +28,35 @@ Would you like to find me?
   <summary>Click to look!</summary>
 
 <!-- CHANNEL_PROJECTS:START -->
-- [omariosouto/devsoutinhoflix](https://github.com/omariosouto/devsoutinhoflix)
-- [omariosouto/flappy-bird-devsoutinho](https://github.com/omariosouto/flappy-bird-devsoutinho)
-- [alura-challenges/aluraquiz-base](https://github.com/alura-challenges/aluraquiz-base)
-- [omariosouto/aluraquiz-devsoutinho](https://github.com/omariosouto/aluraquiz-devsoutinho)
-- [omariosouto/devsoutinho-site](https://github.com/omariosouto/devsoutinho-site)
-- [omariosouto/devsoutinho-blog-alurajs](https://github.com/omariosouto/devsoutinho-blog-alurajs)
-- [omariosouto/mvp-devsoutinho](https://github.com/omariosouto/mvp-devsoutinho)
-- [manuhon99/spotcast](https://github.com/manuhon99/spotcast)
-- [CaelumAulas/wd47remoto-devsoutinho](https://github.com/CaelumAulas/wd47remoto-devsoutinho)
-- [AlbertoDuranFilho/flappy-bird](https://github.com/AlbertoDuranFilho/flappy-bird)
-- [RenatoLomba/pokedex-next-js](https://github.com/RenatoLomba/pokedex-next-js)
-- [alissonarm/flappy-bird](https://github.com/alissonarm/flappy-bird)
-- [mspinheiro84/flappy-bird](https://github.com/mspinheiro84/flappy-bird)
-- [guilhermeG23/Fork-flappy-bird-devsoutinho](https://github.com/guilhermeG23/Fork-flappy-bird-devsoutinho)
-- [codemasters92/Flappy-Bird---DevSoutinho](https://github.com/codemasters92/Flappy-Bird---DevSoutinho)
-- [TiMacedoC/Flappy-Bird-by-DEVsoutinho](https://github.com/TiMacedoC/Flappy-Bird-by-DEVsoutinho)
-- [maicon-deivid05/Flappy-bird-curso-DevSoutinho](https://github.com/maicon-deivid05/Flappy-bird-curso-DevSoutinho)
-- [robsonamendonca/scrumquiz](https://github.com/robsonamendonca/scrumquiz)
-- [rrosset91/flappy-bird-clone](https://github.com/rrosset91/flappy-bird-clone)
-- [EstherMarie/FlappyBird_DevSoutinho](https://github.com/EstherMarie/FlappyBird_DevSoutinho)
-- [adriano-valenca/flappy-bird](https://github.com/adriano-valenca/flappy-bird)
-- [karineriquena/flappy-bird](https://github.com/karineriquena/flappy-bird)
-- [renanzozimo/flappy-bird-rz](https://github.com/renanzozimo/flappy-bird-rz)
-- [vitor-kb/narutoquiz-base](https://github.com/vitor-kb/narutoquiz-base)
-- [lazaro-pontes/spotCast](https://github.com/lazaro-pontes/spotCast)
-- [nando-cezar/quiz-alura](https://github.com/nando-cezar/quiz-alura)
-- [eulaludmila/jogo-flappy-bird](https://github.com/eulaludmila/jogo-flappy-bird)
-- [pedromaranini/blackmambaQuiz-imersao](https://github.com/pedromaranini/blackmambaQuiz-imersao)
-- [agsvensson/FlappyBird](https://github.com/agsvensson/FlappyBird)
-- [victordev13/alura-quiz](https://github.com/victordev13/alura-quiz)
-- [philipeperete/FlappyBird](https://github.com/philipeperete/FlappyBird)
-- [bruno-v-osorio/flappy-bird](https://github.com/bruno-v-osorio/flappy-bird)
-- [dennetwebdesigner/FlappyBird](https://github.com/dennetwebdesigner/FlappyBird)
-- [JoaoMeidsonNeri/Aluraquiz-Nerdcast](https://github.com/JoaoMeidsonNeri/Aluraquiz-Nerdcast)
-- [denismend/pinkfloyd-quiz](https://github.com/denismend/pinkfloyd-quiz)
-- [andersonFaro9/imersao-alura-quiz](https://github.com/andersonFaro9/imersao-alura-quiz)
-- [Daniellyomori/ImersaoReactII-base](https://github.com/Daniellyomori/ImersaoReactII-base)
-- [wallaceneto/Spotcast](https://github.com/wallaceneto/Spotcast)
-- [pmmdesenvolvedor/AluraQuiz](https://github.com/pmmdesenvolvedor/AluraQuiz)
-- [wallissonisaac/aluraquiz](https://github.com/wallissonisaac/aluraquiz)
-- [rjramos70/flappy-bird](https://github.com/rjramos70/flappy-bird)
-- [GustavoHerreroNunes/flappy_Bird-Jogo_Javascrpit](https://github.com/GustavoHerreroNunes/flappy_Bird-Jogo_Javascrpit)
-<!-- CHANNEL_PROJECTS:END -->
+ - 🌮 omariosouto/devsoutinhoflix https://github.com/omariosouto/devsoutinhoflix
+ - 💯 alura-challenges/aluraquiz-base https://github.com/alura-challenges/aluraquiz-base
+ - 🌮 omariosouto/flappy-bird-devsoutinho https://github.com/omariosouto/flappy-bird-devsoutinho
+ - 🚀 omariosouto/aluraquiz-devsoutinho https://github.com/omariosouto/aluraquiz-devsoutinho
+ - 🌮 omariosouto/devsoutinho-site https://github.com/omariosouto/devsoutinho-site
+ - 🚀 omariosouto/devsoutinho-blog-alurajs https://github.com/omariosouto/devsoutinho-blog-alurajs
+ - 🌮 omariosouto/mvp-devsoutinho https://github.com/omariosouto/mvp-devsoutinho
+ - 🌮 manuhon99/spotcast https://github.com/manuhon99/spotcast
+ - 🔥 CaelumAulas/wd47remoto-devsoutinho https://github.com/CaelumAulas/wd47remoto-devsoutinho
+ - 💯 AlbertoDuranFilho/flappy-bird https://github.com/AlbertoDuranFilho/flappy-bird
+ - 💫 RenatoLomba/pokedex-next-js https://github.com/RenatoLomba/pokedex-next-js
+ - 🌮 alissonarm/flappy-bird https://github.com/alissonarm/flappy-bird
+ - 🚀 mspinheiro84/flappy-bird https://github.com/mspinheiro84/flappy-bird
+ - 🚀 guilhermeG23/Fork-flappy-bird-devsoutinho https://github.com/guilhermeG23/Fork-flappy-bird-devsoutinho
+ - 🚀 codemasters92/Flappy-Bird---DevSoutinho https://github.com/codemasters92/Flappy-Bird---DevSoutinho
+ - 🌮 maicon-deivid05/Flappy-bird-curso-DevSoutinho https://github.com/maicon-deivid05/Flappy-bird-curso-DevSoutinho
+ - 💫 TiMacedoC/Flappy-Bird-by-DEVsoutinho https://github.com/TiMacedoC/Flappy-Bird-by-DEVsoutinho
+ - 💯 robsonamendonca/scrumquiz https://github.com/robsonamendonca/scrumquiz
+ - 🌮 rrosset91/flappy-bird-clone https://github.com/rrosset91/flappy-bird-clone
+ - 🌮 EstherMarie/FlappyBird_DevSoutinho https://github.com/EstherMarie/FlappyBird_DevSoutinho
+ - 🚀 adriano-valenca/flappy-bird https://github.com/adriano-valenca/flappy-bird
+ - 🌮 karineriquena/flappy-bird https://github.com/karineriquena/flappy-bird
+ - 🔥 renanzozimo/flappy-bird-rz https://github.com/renanzozimo/flappy-bird-rz
+ - 💫 vitor-kb/narutoquiz-base https://github.com/vitor-kb/narutoquiz-base
+ - 🚀 lazaro-pontes/spotCast https://github.com/lazaro-pontes/spotCast
+ - 🚀 nando-cezar/quiz-alura https://github.com/nando-cezar/quiz-alura
+ - 💯 victordev13/alura-quiz https://github.com/victordev13/alura-quiz
+ - 🔥 pedromaranini/blackmambaQuiz-imersao https://github.com/pedromaranini/blackmambaQuiz-imersao
+ - 🌮 eulaludmila/jogo-flappy-bird https://github.com/eulaludmila/jogo-flappy-bird
+ - 🚀 agsvensson/FlappyBird https://github.com/agsvensson/FlappyBird<!-- CHANNEL_PROJECTS:END -->
 
 </details>
