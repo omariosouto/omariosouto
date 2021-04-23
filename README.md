@@ -8,7 +8,7 @@ Would you like to find me?
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/omariosouto)](https://twitter.com/omariosouto)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omariosouto)](https://www.linkedin.com/in/omariosouto)
 
-### 📺 Recent Videos on YouTube!
+### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
 - [NOVIDADES + 22K inscritos + MEIO MILHÃO DE VIEWS + Presentes do GitHub](https://www.youtube.com/watch?v=8u-6XQPFjS8)
