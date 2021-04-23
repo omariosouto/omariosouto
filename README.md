@@ -22,3 +22,8 @@ Would you like to find me?
 - [Minhas TOP 3 FEATURES FAVORITAS do #JavaScript!](https://www.youtube.com/watch?v=0-Gtl8nAw3c)
 - [Webmaster, FullStack ou Dev em T? | feat. Caio Incau, Keit Oliveira e Paulo Silveira!](https://www.youtube.com/watch?v=B0hQgcolYxc)
 <!-- YOUTUBE:END -->
+
+### Sample Test!
+
+<!-- CHANNEL_PROJECTS:START -->
+<!-- CHANNEL_PROJECTS:END -->
