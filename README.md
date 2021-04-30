@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript](https://www.youtube.com/watch?v=yS7AcF-xRUg)
 - [Como fazer Master Tags no Notion? Como eu me organizo no Notion](https://www.youtube.com/watch?v=BoIrd73YkIY)
 - [NOVIDADES + 22K inscritos + MEIO MILHÃO DE VIEWS + Presentes do GitHub](https://www.youtube.com/watch?v=8u-6XQPFjS8)
 - [A MELHOR FEATURE pra se ORGANIZAR de no NOTION! | WeekLinks a NewsLetter do DevSoutinho](https://www.youtube.com/watch?v=GwXn1oQ2BGM)
-- [Seu SITE tá QUEBRADO E VOCÊ NÃO SABE! Como fazer compatibilidade de browser do jeito certo?](https://www.youtube.com/watch?v=k2pl8NhL_C8)
 <!-- YOUTUBE:END -->
 
 ### Channel Community Projects \o/
