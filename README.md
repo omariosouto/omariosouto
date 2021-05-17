@@ -11,7 +11,7 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
-- [React + Strategy Pattern: Criando componente de share com ZERO dependências](https://www.youtube.com/watch?v=DAnhRjEEHMI)
+- [Criando componente de share com ZERO dependências | React + Strategy Pattern](https://www.youtube.com/watch?v=DAnhRjEEHMI)
 - [O que todo programador(a) deveria saber, mas demora pra aceitar | Você não é pago pra programar!](https://www.youtube.com/watch?v=t7Rz-fyp8S8)
 - [O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript](https://www.youtube.com/watch?v=yS7AcF-xRUg)
 - [Como fazer Master Tags no Notion? Como eu me organizo no Notion](https://www.youtube.com/watch?v=BoIrd73YkIY)
