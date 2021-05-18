@@ -16,3 +16,8 @@ Would you like to find me?
 - [O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript](https://www.youtube.com/watch?v=yS7AcF-xRUg)
 - [Como fazer Master Tags no Notion? Como eu me organizo no Notion](https://www.youtube.com/watch?v=BoIrd73YkIY)
 <!-- YOUTUBE:END -->
+
+____
+
+
+[![Mario Souto's github stats](https://github-readme-stats.vercel.app/api?username=omariosouto&theme=dark&show_icons=true&count_private=true)](https://github.com/felipefialho)
