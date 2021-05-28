@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [NextJS: 3 Coisas que você deveria saber! E como integrar NextJS com qualquer coisa](https://www.youtube.com/watch?v=iqv5U0oKQX8)
 - [LocalStorage + NextJS DA PRA USAR?? Cookies ou LocalStorage? | Salvando preferências de usuário](https://www.youtube.com/watch?v=zSl_n-9yGRs)
 - [Criando componente de share com ZERO dependências | React + Strategy Pattern](https://www.youtube.com/watch?v=DAnhRjEEHMI)
 - [O que todo programador(a) deveria saber, mas demora pra aceitar | Você não é pago pra programar!](https://www.youtube.com/watch?v=t7Rz-fyp8S8)
-- [O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript](https://www.youtube.com/watch?v=yS7AcF-xRUg)
 <!-- YOUTUBE:END -->
 
 ____
