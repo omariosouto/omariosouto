@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Como consegui meu primeiro trabalho como Dev + Unboxing Alura Stars! | Primeiros passos como Dev](https://www.youtube.com/watch?v=RW1Rp2oQ_bc)
 - [NextJS: 3 Coisas que você deveria saber! E como integrar NextJS com qualquer coisa](https://www.youtube.com/watch?v=iqv5U0oKQX8)
 - [LocalStorage + NextJS DA PRA USAR?? Cookies ou LocalStorage? | Salvando preferências de usuário](https://www.youtube.com/watch?v=zSl_n-9yGRs)
 - [Criando componente de share com ZERO dependências | React + Strategy Pattern](https://www.youtube.com/watch?v=DAnhRjEEHMI)
-- [O que todo programador(a) deveria saber, mas demora pra aceitar | Você não é pago pra programar!](https://www.youtube.com/watch?v=t7Rz-fyp8S8)
 <!-- YOUTUBE:END -->
 
 ____
