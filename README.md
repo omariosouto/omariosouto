@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [EXTRA :O que tem de novo no NextJS 11? O que rolou na NextConf Edição Especial](https://www.youtube.com/watch?v=V5RGm82bPEM)
 - [Cobertura AO VIVASSA NextConf com DevSoutinho](https://www.youtube.com/watch?v=Eurpfvcmdb0)
 - [Qual framework Front é melhor? O que eu não gosto no Tailwind CSS e o que eu gosto](https://www.youtube.com/watch?v=_Dbj6_dbOa0)
 - [Como consegui meu primeiro trabalho como Dev + Unboxing Alura Stars! | Primeiros passos como Dev](https://www.youtube.com/watch?v=RW1Rp2oQ_bc)
-- [NextJS: 3 Coisas que você deveria saber! E como integrar NextJS com qualquer coisa](https://www.youtube.com/watch?v=iqv5U0oKQX8)
 <!-- YOUTUBE:END -->
 
 ____
