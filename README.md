@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Como pegar dados de uma API? Como fazer AJAX ou "AJAJ"! | Pegando dados de serviços via JavaScript](https://www.youtube.com/watch?v=85vJXFpXLQw)
 - [O que é Latência? O que é CDN? Como deixar seu site mais rápido? WebVitals e dicas de performance!](https://www.youtube.com/watch?v=x4eyf5L5caY)
 - [EXTRA: O que tem de novo no NextJS 11? O que rolou na NextConf Edição Especial #ReactJS](https://www.youtube.com/watch?v=V5RGm82bPEM)
 - [Cobertura AO VIVASSA NextConf com DevSoutinho](https://www.youtube.com/watch?v=Eurpfvcmdb0)
-- [Qual framework Front é melhor? O que eu não gosto no Tailwind CSS e o que eu gosto](https://www.youtube.com/watch?v=_Dbj6_dbOa0)
 <!-- YOUTUBE:END -->
 
 ____
