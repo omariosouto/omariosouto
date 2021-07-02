@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [React: O minimo de base que você precisa saber para não sofrer começando com a ferramenta #ReactJS](https://www.youtube.com/watch?v=4BxrxiMMjcA)
 - [Reforço de JavaScript para aprender React AO VIVASSO!!! #ImersaoReact #Alura](https://www.youtube.com/watch?v=FY8GLTE-eFU)
 - [Como pegar dados de uma API? Como fazer AJAX ou "AJAJ"! | Pegando dados de serviços via JavaScript](https://www.youtube.com/watch?v=85vJXFpXLQw)
 - [O que é Latência? O que é CDN? Como deixar seu site mais rápido? WebVitals e dicas de performance!](https://www.youtube.com/watch?v=x4eyf5L5caY)
-- [EXTRA: O que tem de novo no NextJS 11? O que rolou na NextConf Edição Especial #ReactJS](https://www.youtube.com/watch?v=V5RGm82bPEM)
 <!-- YOUTUBE:END -->
 
 ____
