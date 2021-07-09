@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [O que é um CMS? Como usar? De blog, loja até Rede Social(?) Os poderes de um CMS para um Front End!](https://www.youtube.com/watch?v=IZi6nogysRM)
 - [Reforço de JavaScript para aprender React AO VIVASSO!!! #ImersaoReact #Alura](https://www.youtube.com/watch?v=FY8GLTE-eFU)
 - [React: O minimo de base que você precisa saber para não sofrer começando com a ferramenta #ReactJS](https://www.youtube.com/watch?v=4BxrxiMMjcA)
 - [Como pegar dados de uma API? Como fazer AJAX ou "AJAJ"! | Pegando dados de serviços via JavaScript](https://www.youtube.com/watch?v=85vJXFpXLQw)
-- [O que é Latência? O que é CDN? Como deixar seu site mais rápido? WebVitals e dicas de performance!](https://www.youtube.com/watch?v=x4eyf5L5caY)
 <!-- YOUTUBE:END -->
 
 ____
