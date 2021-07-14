@@ -11,7 +11,7 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
-- [GitHub Copilot: da pra criar uma app React 100% com IA? feat. DevSoutinho #FrontEndWeek](https://www.youtube.com/watch?v=K-32h6oSgpg)
+- [GitHub Copilot: da pra criar uma app React 100% com IA? #FrontEndWeek](https://www.youtube.com/watch?v=K-32h6oSgpg)
 - [O que é um CMS? Como usar? De blog, loja até Rede Social(?) Os poderes de um CMS para um Front End!](https://www.youtube.com/watch?v=IZi6nogysRM)
 - [Reforço de JavaScript para aprender React AO VIVASSO!!! #ImersaoReact #Alura](https://www.youtube.com/watch?v=FY8GLTE-eFU)
 - [React: O minimo de base que você precisa saber para não sofrer começando com a ferramenta #ReactJS](https://www.youtube.com/watch?v=4BxrxiMMjcA)
