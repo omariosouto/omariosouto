@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Led que sincroniza com a TV e o VideoGame? Ambilight com Raspberry PI e Arduino!](https://www.youtube.com/watch?v=I-DcBIUsCZw)
 - [Como renderizar tags no meio de um componente React? #BootcampFrontEndAvancado](https://www.youtube.com/watch?v=dA6EW4FmjbI)
 - [Scroll infinito? Animação no Scroll? Como usar o Intersection Observer do JavaScript com React!](https://www.youtube.com/watch?v=lrot_otx2tA)
 - [GitHub Copilot: da pra criar uma app React 100% com IA? #FrontEndWeek](https://www.youtube.com/watch?v=K-32h6oSgpg)
-- [O que é um CMS? Como usar? De blog, loja até Rede Social(?) Os poderes de um CMS para um Front End!](https://www.youtube.com/watch?v=IZi6nogysRM)
 <!-- YOUTUBE:END -->
 
 ____
