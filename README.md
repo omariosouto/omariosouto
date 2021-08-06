@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Linter garantido e Git Hooks de um jeito FÁCIL!! Automatizando tarefas entre fluxos do Git com Husky](https://www.youtube.com/watch?v=F3B8W3yPPSo)
 - [Led que sincroniza com a TV e o VideoGame? Ambilight com Raspberry PI e Arduino!](https://www.youtube.com/watch?v=I-DcBIUsCZw)
 - [Como renderizar tags no meio de um componente React? #BootcampFrontEndAvancado](https://www.youtube.com/watch?v=dA6EW4FmjbI)
 - [Scroll infinito? Animação no Scroll? Como usar o Intersection Observer do JavaScript com React!](https://www.youtube.com/watch?v=lrot_otx2tA)
-- [GitHub Copilot: da pra criar uma app React 100% com IA? #FrontEndWeek](https://www.youtube.com/watch?v=K-32h6oSgpg)
 <!-- YOUTUBE:END -->
 
 ____
