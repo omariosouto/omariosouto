@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Top 3 Dicas para emprego em programação + Dicas fundamentais para projetos em geral](https://www.youtube.com/watch?v=WWLH2RgaBwE)
 - [VSCode Dentro do navegador com o GitHub???? #DevDicas](https://www.youtube.com/watch?v=m6YkJkMgznk)
 - [Linter garantido e Git Hooks de um jeito FÁCIL!! Automatizando tarefas entre fluxos do Git com Husky](https://www.youtube.com/watch?v=F3B8W3yPPSo)
 - [Led que sincroniza com a TV e o VideoGame? Ambilight com Raspberry PI e Arduino!](https://www.youtube.com/watch?v=I-DcBIUsCZw)
-- [Como renderizar tags no meio de um componente React? #BootcampFrontEndAvancado](https://www.youtube.com/watch?v=dA6EW4FmjbI)
 <!-- YOUTUBE:END -->
 
 ____
