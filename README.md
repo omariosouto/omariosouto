@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [O "this" faz mal pro seu código e eu posso provar! | this no JavaScript vale a pena?](https://www.youtube.com/watch?v=5m1Z5IDTHkU)
 - [Como aprender CSS? O Guia Definitivo pra você entender como aprender CSS!](https://www.youtube.com/watch?v=alqWVx0p3U0)
 - [Top 3 Dicas para emprego em programação + Dicas fundamentais para projetos em geral](https://www.youtube.com/watch?v=WWLH2RgaBwE)
 - [VSCode Dentro do navegador com o GitHub???? #DevDicas](https://www.youtube.com/watch?v=m6YkJkMgznk)
-- [Linter garantido e Git Hooks de um jeito FÁCIL!! Automatizando tarefas entre fluxos do Git com Husky](https://www.youtube.com/watch?v=F3B8W3yPPSo)
 <!-- YOUTUBE:END -->
 
 ____
