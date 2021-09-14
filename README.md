@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [3 Dicas pra aproveitar eventos tech + Convite CODECON!](https://www.youtube.com/watch?v=snWIEvpXSv0)
 - [Tour pelo meu VSCode! MEUS TOP 8+ PLUGINS e decisões que eu tomei pro meu setup de editor de código.](https://www.youtube.com/watch?v=xnzBPdU_3Ek)
 - [Como sao feitas libs em JavaScript? 5 dicas importantissímas pra você colocar no seu próximo projeto](https://www.youtube.com/watch?v=_AXJMKcdfJY)
 - [O "this" faz mal pro seu código e eu posso provar! | this no JavaScript vale a pena?](https://www.youtube.com/watch?v=5m1Z5IDTHkU)
-- [Como aprender CSS? O Guia Definitivo pra você entender como aprender CSS!](https://www.youtube.com/watch?v=alqWVx0p3U0)
 <!-- YOUTUBE:END -->
 
 ____
