@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Recebidos do GitHub #Nova2021 😍🥰](https://www.youtube.com/watch?v=-2vPYfsWuag)
 - [Melhor pior vídeo do canal? O que eu queria que tivessem me contado quando comecei com JavaScript!](https://www.youtube.com/watch?v=le0JHIlumPQ)
 - [Como criar telas para React e React Native, respeitando as plataformas e a a11y nativa! com SkynexUI](https://www.youtube.com/watch?v=6_BoOWU9bsY)
 - [3 Dicas pra aproveitar eventos tech + Convite CODECON!](https://www.youtube.com/watch?v=snWIEvpXSv0)
-- [Tour pelo meu VSCode! MEUS TOP 8+ PLUGINS e decisões que eu tomei pro meu setup de editor de código.](https://www.youtube.com/watch?v=xnzBPdU_3Ek)
 <!-- YOUTUBE:END -->
 
 ____
