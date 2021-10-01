@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Você PRECISA ENTENDER o conteúdo DESSE | Callbacks, Sincrono, Assíncrono e Event Loop no JavaScript](https://www.youtube.com/watch?v=6lbBaM18X3g)
 - [Recebidos do GitHub #Nova2021 😍🥰](https://www.youtube.com/watch?v=-2vPYfsWuag)
 - [Melhor pior vídeo do canal? O que eu queria que tivessem me contado quando comecei com JavaScript!](https://www.youtube.com/watch?v=le0JHIlumPQ)
 - [Como criar telas para React e React Native, respeitando as plataformas e a a11y nativa! com SkynexUI](https://www.youtube.com/watch?v=6_BoOWU9bsY)
-- [3 Dicas pra aproveitar eventos tech + Convite CODECON!](https://www.youtube.com/watch?v=snWIEvpXSv0)
 <!-- YOUTUBE:END -->
 
 ____
