@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [CSS Battle! Um desafio pra vocês e pra mim #GamePlayCSS](https://www.youtube.com/watch?v=j_GWR3kaiKc)
 - [GitHub Setup: Configs importantes para projetos REAIS | Como configurar repositório para trabalhar?](https://www.youtube.com/watch?v=Z0YbwHz1P0g)
 - [O que é CI e CD? Pra vc aprender e nunca mais esquecer! | Como usar GitHub Actions?](https://www.youtube.com/watch?v=IKjcdYQvcDo)
 - [Você PRECISA ENTENDER o conteúdo DESSE | Callbacks, Sincrono, Assíncrono e Event Loop no JavaScript](https://www.youtube.com/watch?v=6lbBaM18X3g)
-- [Recebidos do GitHub #Nova2021 😍🥰](https://www.youtube.com/watch?v=-2vPYfsWuag)
 <!-- YOUTUBE:END -->
 
 ____
