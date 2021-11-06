@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Como criar bons nomes de variáveis? Reflexão sobre semântica - Front End Edition](https://www.youtube.com/watch?v=ji7l3s05QnE)
 - [Minha principal dica pra entrevista de programação! | Como melhorar meus projetos?](https://www.youtube.com/watch?v=NPXgBB9bbMg)
 - [CSS Battle! Um desafio pra vocês e pra mim #GamePlayCSS](https://www.youtube.com/watch?v=j_GWR3kaiKc)
 - [GitHub Setup: Configs importantes para projetos REAIS | Como configurar repositório para trabalhar?](https://www.youtube.com/watch?v=Z0YbwHz1P0g)
-- [O que é CI e CD? Pra vc aprender e nunca mais esquecer! | Como usar GitHub Actions?](https://www.youtube.com/watch?v=IKjcdYQvcDo)
 <!-- YOUTUBE:END -->
 
 ____
