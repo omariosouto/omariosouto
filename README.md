@@ -11,7 +11,7 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
-- [Quando usar Async/Await? Promises no JavaScript? Você NUNCA MAIS VAI ERRAR](https://www.youtube.com/watch?v=q28lfkBd9F4)
+- [Como usar Async/Await? Promises no JavaScript? Você NUNCA MAIS VAI ERRAR](https://www.youtube.com/watch?v=q28lfkBd9F4)
 - [Como criar bons nomes de variáveis? Reflexão sobre semântica - Front End Edition](https://www.youtube.com/watch?v=ji7l3s05QnE)
 - [Minha principal dica pra entrevista de programação! | Como melhorar meus projetos?](https://www.youtube.com/watch?v=NPXgBB9bbMg)
 - [CSS Battle! Um desafio pra vocês e pra mim #GamePlayCSS](https://www.youtube.com/watch?v=j_GWR3kaiKc)
