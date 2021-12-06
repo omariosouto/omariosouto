@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [O que é dotfiles? Como eu configurei os meus dotfiles pra nunca mais configurar meu ambiente do zero](https://www.youtube.com/watch?v=Ficm64eRuVE)
 - [Tour pelo meu setup: Como configurar ambiente JavaScript/NodeJS para trabalhar? DO JEITO CERTO](https://www.youtube.com/watch?v=GIz71YGzwP4)
 - [Linguagens Sem Tipos, da pra ficar bom programando nelas? JavaScript vs TypeScript](https://www.youtube.com/watch?v=t-9-pkh5FDQ)
 - [Como usar Async/Await? Promises no JavaScript? Você NUNCA MAIS VAI ERRAR](https://www.youtube.com/watch?v=q28lfkBd9F4)
-- [Como criar bons nomes de variáveis? Reflexão sobre semântica - Front End Edition](https://www.youtube.com/watch?v=ji7l3s05QnE)
 <!-- YOUTUBE:END -->
 
 ____
