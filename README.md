@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Montando um PC para Dev | Qual hardware escolher para programar?](https://www.youtube.com/watch?v=VcPMjCLqbVA)
 - [4 DICAS de CSS que você PRECISA saber &lpar;a última é de JS mas é visual&rpar; | Como fazer um site awwwards?](https://www.youtube.com/watch?v=p3rXmeI0KEk)
 - [O que é dotfiles? Como eu configurei os meus dotfiles pra nunca mais configurar meu ambiente do zero](https://www.youtube.com/watch?v=Ficm64eRuVE)
 - [Tour pelo meu setup: Como configurar ambiente JavaScript/NodeJS para trabalhar? DO JEITO CERTO](https://www.youtube.com/watch?v=GIz71YGzwP4)
-- [Linguagens Sem Tipos, da pra ficar bom programando nelas? JavaScript vs TypeScript](https://www.youtube.com/watch?v=t-9-pkh5FDQ)
 <!-- YOUTUBE:END -->
 
 ____
