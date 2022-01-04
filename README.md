@@ -12,7 +12,7 @@ Would you like to find me?
 
 <!-- YOUTUBE:START -->
 - [Quantas linguagens de programação eu preciso saber? | Quais linguagens eu já programei?](https://www.youtube.com/watch?v=FDQbzP7PBiw)
-- [Montando um PC para Dev | Qual hardware escolher para programar?](https://www.youtube.com/watch?v=VcPMjCLqbVA)
+- [Montando um PC para Programar | Qual hardware escolher para um dev?](https://www.youtube.com/watch?v=VcPMjCLqbVA)
 - [4 DICAS de CSS que você PRECISA saber &lpar;a última é de JS mas é visual&rpar; | Como fazer um site awwwards?](https://www.youtube.com/watch?v=p3rXmeI0KEk)
 - [O que é dotfiles? Como eu configurei os meus dotfiles pra nunca mais configurar meu ambiente do zero](https://www.youtube.com/watch?v=Ficm64eRuVE)
 <!-- YOUTUBE:END -->
