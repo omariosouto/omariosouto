@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Se floppar nunca existiu! Live surpresa - DevSoutinho](https://www.youtube.com/watch?v=mhhJl-gX-R0)
 - [CSS-in-JS na prática! Criando componentes com React e CSS no NextJS](https://www.youtube.com/watch?v=aDKxJfJiM28)
 - [Como documentar códigos? Documentando Front End com Storybook!](https://www.youtube.com/watch?v=R41_Qedrzik)
 - [QUANTAS LINGUAGENS DE PROGRAMAÇÃO eu preciso SABER? | Quais linguagens eu já programei?](https://www.youtube.com/watch?v=FDQbzP7PBiw)
-- [Montando um PC para Programar | Qual hardware escolher para um dev?](https://www.youtube.com/watch?v=VcPMjCLqbVA)
 <!-- YOUTUBE:END -->
 
 ____
