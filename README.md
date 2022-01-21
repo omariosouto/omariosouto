@@ -1,6 +1,6 @@
 ### "Olá pessoas!" \o/ 👋
 
-My name is Mario Souto, and I'm from Brazil (🇧🇷). I've been working as Front-End Developer since 2015 (also have a past as Open Tibia Server owner). Actually I work as a Front End Engineer at Nubank and have my YouTube Channel where I make it as my personal lab, sharing many stuff there every week :)
+My name is Mario Souto, and I'm from Brazil (🇧🇷). I've been working as Front-End Developer since 2015 (also have a past as Open Tibia Server owner). Currently I work as a Front End Engineer at Nubank and have my YouTube Channel where I make it as my personal lab, sharing many stuff there every week :)
 
 Would you like to find me?
 
