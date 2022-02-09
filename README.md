@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Vamos jogar pokémon legends arceus?! Live surpresa - DevSoutinho](https://www.youtube.com/watch?v=DN9fgVrZi8k)
 - [No &#39;Access-Control-Allow-Origin&#39; header is present on the requested resource. | RESOLVIDO!](https://www.youtube.com/watch?v=bk661C4WY6I)
 - [Como usar imagens no Next.js?](https://www.youtube.com/watch?v=LQqliNavVYQ)
 - [Git e GitHub: Como subir meu primeiro projeto? Como versionar um projeto? #BaseDev #DevIniciante](https://www.youtube.com/watch?v=-6JwElEt49w)
-- [Se floppar nunca existiu! Live surpresa - DevSoutinho](https://www.youtube.com/watch?v=mhhJl-gX-R0)
 <!-- YOUTUBE:END -->
 
 ____
