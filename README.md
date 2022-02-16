@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Como criar uma newsletter gratuitamente? #Revue](https://www.youtube.com/watch?v=aFMAbikbSl0)
 - [Faculdade pra trabalhar com programação? Precisa de faculdade pra ser dev? #OPINIAO_PESSOAL](https://www.youtube.com/watch?v=C_0hpYvH2AM)
 - [#DevDicas pegando foto de perfil para fazer upload em algum lugar! #GitHub #DevSoutinho](https://www.youtube.com/watch?v=23rjjk9vVYc)
 - [Vamos jogar pokémon legends arceus?! Live surpresa - DevSoutinho](https://www.youtube.com/watch?v=DN9fgVrZi8k)
-- [No &#39;Access-Control-Allow-Origin&#39; header is present on the requested resource. | RESOLVIDO!](https://www.youtube.com/watch?v=bk661C4WY6I)
 <!-- YOUTUBE:END -->
 
 ____
