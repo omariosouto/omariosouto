@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Tour pelo meu setup feat 50k inscritos e 2 anos de canal! OBRIGADO](https://www.youtube.com/watch?v=HGXcE0sudr4)
 - [Como criar uma newsletter gratuitamente? #Revue](https://www.youtube.com/watch?v=aFMAbikbSl0)
 - [Faculdade pra trabalhar com programação? Precisa de faculdade pra ser dev? #OPINIAO_PESSOAL](https://www.youtube.com/watch?v=C_0hpYvH2AM)
 - [#DevDicas pegando foto de perfil para fazer upload em algum lugar! #GitHub #DevSoutinho](https://www.youtube.com/watch?v=23rjjk9vVYc)
-- [Vamos jogar pokémon legends arceus?! Live surpresa - DevSoutinho](https://www.youtube.com/watch?v=DN9fgVrZi8k)
 <!-- YOUTUBE:END -->
 
 ____
