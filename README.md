@@ -11,7 +11,7 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
-- [Como eu me planejo para ensinar tecnologia? Formação Next.js pt01](https://www.youtube.com/watch?v=DbrxpLxDWGg)
+- [Como eu me planejo para ensinar tecnologia? Formação Next.js com a minha pessoa 😊](https://www.youtube.com/watch?v=DbrxpLxDWGg)
 - [Qual carreira escolher para trabalhar com tecnologia e programação? Front End x Back End x Mobile](https://www.youtube.com/watch?v=0lIexK1xPlU)
 - [Tour pelo meu setup feat 50k inscritos e 2 anos de canal! OBRIGADO](https://www.youtube.com/watch?v=HGXcE0sudr4)
 - [Como criar uma newsletter gratuitamente? #Revue](https://www.youtube.com/watch?v=aFMAbikbSl0)
