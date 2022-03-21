@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Frameworks vs Código &quot;puro&quot; em projetos: Por que usamos? Vale a pena de verdade?](https://www.youtube.com/watch?v=ChALzuWPs4k)
 - [FullStack é pato? Visão geral da área de programação: Front End vs Back End, &quot;qual é mais difícil?&quot;](https://www.youtube.com/watch?v=z8Eqdn62xZg)
 - [Como eu me planejo para ensinar tecnologia? Formação Next.js com a minha pessoa 😊](https://www.youtube.com/watch?v=DbrxpLxDWGg)
 - [Qual carreira escolher para trabalhar com tecnologia e programação? Front End x Back End x Mobile](https://www.youtube.com/watch?v=0lIexK1xPlU)
-- [Tour pelo meu setup feat 50k inscritos e 2 anos de canal! OBRIGADO](https://www.youtube.com/watch?v=HGXcE0sudr4)
 <!-- YOUTUBE:END -->
 
 ____
