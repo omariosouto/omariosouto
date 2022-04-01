@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Unboxing Especial + Coisas que Todo Dev deve ter!](https://www.youtube.com/watch?v=14H88k1xmDg)
 - [Estruturas de dados com JavaScript - Básico pra você usar agora!](https://www.youtube.com/watch?v=MweeZn1rR8s)
 - [Frameworks vs Código &quot;puro&quot; em projetos: Por que usamos? Vale a pena de verdade?](https://www.youtube.com/watch?v=ChALzuWPs4k)
 - [FullStack é pato? Visão geral da área de programação: Front End vs Back End, &quot;qual é mais difícil?&quot;](https://www.youtube.com/watch?v=z8Eqdn62xZg)
-- [Como eu me planejo para ensinar tecnologia? Formação Next.js com a minha pessoa 😊](https://www.youtube.com/watch?v=DbrxpLxDWGg)
 <!-- YOUTUBE:END -->
 
 ____
