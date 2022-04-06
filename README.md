@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
-- [#7DaysOfCode - Primeiros Passos no React comigo!](https://www.youtube.com/watch?v=z0pU4QwQjC8)
 - [Unboxing Especial + Coisas que Todo Dev deve ter!](https://www.youtube.com/watch?v=14H88k1xmDg)
 - [Estruturas de dados com JavaScript - Básico pra você usar agora!](https://www.youtube.com/watch?v=MweeZn1rR8s)
 - [Frameworks vs Código &quot;puro&quot; em projetos: Por que usamos? Vale a pena de verdade?](https://www.youtube.com/watch?v=ChALzuWPs4k)
+- [FullStack é pato? Visão geral da área de programação: Front End vs Back End, &quot;qual é mais difícil?&quot;](https://www.youtube.com/watch?v=z8Eqdn62xZg)
 <!-- YOUTUBE:END -->
 
 ____
