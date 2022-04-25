@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Por que StackOverflow? Aprendendo mais sobre estruturas de dados feat. Stack e Queue](https://www.youtube.com/watch?v=kWqNDzAM-RU)
 - [Front End, Design Tokens e Figma? Como organizar Front End](https://www.youtube.com/watch?v=nVldkcP1Q1Q)
 - [Top 5 + 1 tooling de desenvolvimento | Ferramentas que eu usaria em um MVP](https://www.youtube.com/watch?v=3KrDem7g0sQ)
 - [Unboxing Especial + Coisas que Todo Dev deve ter!](https://www.youtube.com/watch?v=14H88k1xmDg)
-- [Estruturas de dados com JavaScript - Básico pra você usar agora!](https://www.youtube.com/watch?v=MweeZn1rR8s)
 <!-- YOUTUBE:END -->
 
 ____
