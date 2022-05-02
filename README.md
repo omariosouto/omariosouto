@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [3 Dicas para praticar programação #Shorts](https://www.youtube.com/watch?v=2WKFvhKvOns)
 - [O que é abstração?](https://www.youtube.com/watch?v=9XrY_KxzWgw)
 - [Como programar memes? 1 milhão de inscritos em 5 segundos #Shorts](https://www.youtube.com/watch?v=soI-s2TLKZ4)
 - [Por que StackOverflow? Aprendendo mais sobre estruturas de dados feat. Stack e o que é LIFO](https://www.youtube.com/watch?v=kWqNDzAM-RU)
-- [Front End, Design Tokens e Figma? Como organizar Front End](https://www.youtube.com/watch?v=nVldkcP1Q1Q)
 <!-- YOUTUBE:END -->
 
 ____
