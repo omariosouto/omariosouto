@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Web: Como fazer um CRUD com JavaScript? #ConstruindoCRUDs - Parte 01](https://www.youtube.com/watch?v=tRcnPcSbGrI)
 - [Como fazer um CRUD com JavaScript? #ConstruindoCRUDs - Nivel 1 - JavaScript PURO](https://www.youtube.com/watch?v=5I4W0Mtcfqo)
 - [Como criar um app? #Shorts](https://www.youtube.com/watch?v=KWntOY5KKSA)
 - [3 Dicas para praticar programação #Shorts](https://www.youtube.com/watch?v=2WKFvhKvOns)
-- [O que é abstração?](https://www.youtube.com/watch?v=9XrY_KxzWgw)
 <!-- YOUTUBE:END -->
 
 ____
