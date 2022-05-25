@@ -11,8 +11,8 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [[LIVE] Previewer de CSS #01 - CodeChallenge &lpar;Fecha MEIA NOITE 24/05&rpar;](https://www.youtube.com/watch?v=qmr63COVyMo)
 - [Web: Como fazer um CRUD com JavaScript? #ConstruindoCRUDs - Parte 02 &lpar;Delete e Update&rpar;](https://www.youtube.com/watch?v=35USNGMCMAc)
-- [[LIVE] Previewer de CSS #01 - CodeChallenge](https://www.youtube.com/watch?v=qmr63COVyMo)
 - [Web: Como fazer um CRUD com JavaScript? #ConstruindoCRUDs - Parte 01 &lpar;Create, Read&rpar;](https://www.youtube.com/watch?v=tRcnPcSbGrI)
 - [Como fazer um CRUD com JavaScript? #ConstruindoCRUDs - Nivel 1 - JavaScript PURO](https://www.youtube.com/watch?v=5I4W0Mtcfqo)
 <!-- YOUTUBE:END -->
