@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [3 Tipos de valores do CSS que você provavelmente não conhece #DevTips](https://www.youtube.com/watch?v=zvpHpWxS_ZQ)
 - [Web: Como fazer um CRUD com JavaScript? #ConstruindoCRUDs - Parte 02 &lpar;Delete e Update&rpar;](https://www.youtube.com/watch?v=35USNGMCMAc)
 - [Web: Como fazer um CRUD com JavaScript? #ConstruindoCRUDs - Parte 01 &lpar;Create, Read&rpar;](https://www.youtube.com/watch?v=tRcnPcSbGrI)
 - [Como fazer um CRUD com JavaScript? #ConstruindoCRUDs - Nivel 1 - JavaScript PURO](https://www.youtube.com/watch?v=5I4W0Mtcfqo)
-- [Como criar um app? #Shorts](https://www.youtube.com/watch?v=KWntOY5KKSA)
 <!-- YOUTUBE:END -->
 
 ____
