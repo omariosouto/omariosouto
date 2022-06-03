@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Flutter Web vs HTML? 🥶 Mini Tour pelo Flutter e mostrando ele na Web! | Primeiros Passos](https://www.youtube.com/watch?v=2J_HHNqegVM)
 - [Como fazer animação com CSS? Nivel 01](https://www.youtube.com/watch?v=KAfIbBsLyYo)
 - [O Front End como você conhece ta por 1 fio!  🧶  NÃO É CLICKBAIT EM!](https://www.youtube.com/watch?v=ckqrKmf0_VU)
 - [3 Tipos de valores do CSS que você provavelmente não conhece #DevTips](https://www.youtube.com/watch?v=zvpHpWxS_ZQ)
-- [Web: Como fazer um CRUD com JavaScript? #ConstruindoCRUDs - Parte 02 &lpar;Delete e Update&rpar;](https://www.youtube.com/watch?v=35USNGMCMAc)
 <!-- YOUTUBE:END -->
 
 ____
