@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [[LIVE] React #03 - Hooks do React: Começando por useEffect e useState](https://www.youtube.com/watch?v=3fjwXPO6vRE)
+- [[LIVE] #02 - Surpresa + Convidado](https://www.youtube.com/watch?v=_MdrD4mhuRk)
 - [Flutter Web vs HTML? 🥶 Mini Tour pelo Flutter e mostrando ele na Web! | Primeiros Passos](https://www.youtube.com/watch?v=2J_HHNqegVM)
 - [Como fazer animação com CSS? Nivel 01](https://www.youtube.com/watch?v=KAfIbBsLyYo)
-- [O Front End como você conhece ta por 1 fio!  🧶  NÃO É CLICKBAIT EM!](https://www.youtube.com/watch?v=ckqrKmf0_VU)
-- [3 Tipos de valores do CSS que você provavelmente não conhece #DevTips](https://www.youtube.com/watch?v=zvpHpWxS_ZQ)
 <!-- YOUTUBE:END -->
 
 ____
