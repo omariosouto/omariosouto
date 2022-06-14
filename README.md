@@ -12,9 +12,9 @@ Would you like to find me?
 
 <!-- YOUTUBE:START -->
 - [Segundo Teste da Live com o Will Combo Fala + Joga](https://www.youtube.com/watch?v=L5q6slvCzm4)
-- [[LIVE] #02 - Surpresa + Convidado](https://www.youtube.com/watch?v=_MdrD4mhuRk)
 - [Code Review e Refactoring: aplicando essas 2 artes na prática! &lpar;Foco em refactoring&rpar;](https://www.youtube.com/watch?v=E_kRRyW2N9g)
 - [[LIVE] React #03 - Hooks do React: Começando por useEffect e useState](https://www.youtube.com/watch?v=3fjwXPO6vRE)
+- [Flutter Web vs HTML? 🥶 Mini Tour pelo Flutter e mostrando ele na Web! | Primeiros Passos](https://www.youtube.com/watch?v=2J_HHNqegVM)
 <!-- YOUTUBE:END -->
 
 ____
