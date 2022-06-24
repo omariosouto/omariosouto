@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Get Started: Segunda Linguagem ROUBANDO mais CORAÇÃO Dos Devs Mundialmente](https://www.youtube.com/watch?v=OURGmV_sG6w)
 - [Front End de TV? Conhecendo o @raphamorim e a sua lib react-ape!](https://www.youtube.com/watch?v=fFlIGPWx94c)
 - [Node JS: Construindo CRUDs com file system focando em serialização e JSON](https://www.youtube.com/watch?v=dvd3pNYh7So)
 - [Como fazer um triangulo com CSS?](https://www.youtube.com/watch?v=EmQdLlfb_8I)
-- [Segundo Teste da Live com o Will Combo Fala + Joga](https://www.youtube.com/watch?v=L5q6slvCzm4)
 <!-- YOUTUBE:END -->
 
 ____
