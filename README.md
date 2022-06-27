@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [JS Boladão - DevNaEstrada - AO VIVO!](https://www.youtube.com/watch?v=4kPfZjdRvII)
 - [Get Started: Segunda Linguagem ROUBANDO mais CORAÇÃO Dos Devs Mundialmente](https://www.youtube.com/watch?v=OURGmV_sG6w)
 - [Front End de TV? Conhecendo o @raphamorim e a sua lib react-ape!](https://www.youtube.com/watch?v=fFlIGPWx94c)
 - [Node JS: Construindo CRUDs com file system focando em serialização e JSON](https://www.youtube.com/watch?v=dvd3pNYh7So)
-- [Como fazer um triangulo com CSS?](https://www.youtube.com/watch?v=EmQdLlfb_8I)
 <!-- YOUTUBE:END -->
 
 ____
