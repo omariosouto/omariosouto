@@ -11,8 +11,8 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
-- [Front End de TV? Conhecendo o @raphamorim e a sua lib react-ape!](https://www.youtube.com/watch?v=fFlIGPWx94c)
 - [JS Boladão - DevNaEstrada - AO VIVO!](https://www.youtube.com/watch?v=4kPfZjdRvII)
+- [Front End de TV? Conhecendo o @raphamorim e a sua lib react-ape!](https://www.youtube.com/watch?v=fFlIGPWx94c)
 - [Get Started: Segunda Linguagem ROUBANDO mais CORAÇÃO Dos Devs Mundialmente](https://www.youtube.com/watch?v=OURGmV_sG6w)
 - [Node JS: Construindo CRUDs com file system focando em serialização e JSON](https://www.youtube.com/watch?v=dvd3pNYh7So)
 <!-- YOUTUBE:END -->
