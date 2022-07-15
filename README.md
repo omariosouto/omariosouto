@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [O principio da programação que ti faz errar mais do que acertar no começo “Don&#39;t Repeat Yourself”](https://www.youtube.com/watch?v=GTJSijuti5Q)
 - [5 dicas de HTML pra você que ACHA QUE SABE!](https://www.youtube.com/watch?v=IXukDu74fGY)
 - [Aprendendo no GitHub, Dicas de Trabalho e melhorando documentações!](https://www.youtube.com/watch?v=yUPbwK_Pq_c)
 - [JS Boladão - DevNaEstrada - AO VIVO!](https://www.youtube.com/watch?v=4kPfZjdRvII)
-- [Front End de TV? Conhecendo o @raphamorim e a sua lib react-ape!](https://www.youtube.com/watch?v=fFlIGPWx94c)
 <!-- YOUTUBE:END -->
 
 ____
