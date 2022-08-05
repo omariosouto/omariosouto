@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Responsividade com Flutter - Minha lib realmente ta USÁVEL agora! feat. responsive_stylesheet](https://www.youtube.com/watch?v=KOnPB-cRwwo)
 - [#01 Live Code Review dos inscritos | feat. Dani Caus - @danicaus](https://www.youtube.com/watch?v=OKf4UgiTuCM)
 - [Reflexão Front End: Como escalar CSS numa empresa com pouco Front?](https://www.youtube.com/watch?v=chg2Kx4DW9Q)
 - [Se eu fosse criar uma startup HOJE, o que daria pra usar de tecnologia no começo?](https://www.youtube.com/watch?v=iv2ei1_TG9I)
-- [O principio da programação que ti faz errar mais do que acertar no começo “Don&#39;t Repeat Yourself”](https://www.youtube.com/watch?v=GTJSijuti5Q)
 <!-- YOUTUBE:END -->
 
 ____
