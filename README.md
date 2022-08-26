@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Web Sockets + JavaScript = Mini Poke Town feat. Codecon!](https://www.youtube.com/watch?v=mlZGg3NYHqc)
 - [Da pra ficar bom só programando no trabalho? Projetos Paralelos e ficar melhor como dev](https://www.youtube.com/watch?v=SXpHMYdbuYQ)
 - [5 Erros Históricos do CSS](https://www.youtube.com/watch?v=HNjkqONzGS0)
 - [Responsividade com Flutter - Minha lib realmente ta USÁVEL agora! feat. responsive_stylesheet](https://www.youtube.com/watch?v=KOnPB-cRwwo)
-- [#01 Live Code Review dos inscritos | feat. Dani Caus - @danicaus](https://www.youtube.com/watch?v=OKf4UgiTuCM)
 <!-- YOUTUBE:END -->
 
 ____
