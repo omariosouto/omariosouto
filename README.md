@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End](https://www.youtube.com/watch?v=d9c0r-J6CdM)
 - [Web Sockets + JavaScript = Mini Poke Town feat. Codecon!](https://www.youtube.com/watch?v=mlZGg3NYHqc)
 - [Da pra ficar bom só programando no trabalho? Projetos Paralelos e ficar melhor como dev](https://www.youtube.com/watch?v=SXpHMYdbuYQ)
 - [5 Erros Históricos do CSS](https://www.youtube.com/watch?v=HNjkqONzGS0)
-- [Responsividade com Flutter - Minha lib realmente ta USÁVEL agora! feat. responsive_stylesheet](https://www.youtube.com/watch?v=KOnPB-cRwwo)
 <!-- YOUTUBE:END -->
 
 ____
