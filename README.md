@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Como foi a DevLeadersConf? #DevSoutinhoTour feat. @Alura Cursos Online](https://www.youtube.com/watch?v=CNwypLx2B1E)
 - [Como documentar código? Dicas para entrevista e projetos profissionais/pessoais](https://www.youtube.com/watch?v=lTjwm1CghDY)
 - [O guia de carreira dev que tava faltando e você não sabia! techguide.sh](https://www.youtube.com/watch?v=-uV5QM3oyxU)
 - [Como trabalhar como dev? FLUXO de TRABALHO DEV para INICIANTES: PowerShell + VSCode + Git + GitHub](https://www.youtube.com/watch?v=IEWGgS5rlWc)
-- [Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End](https://www.youtube.com/watch?v=d9c0r-J6CdM)
 <!-- YOUTUBE:END -->
 
 ____
