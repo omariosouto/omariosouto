@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [ReactJS: Guia básico para começar - Parte 01](https://www.youtube.com/watch?v=o5LJyOUUqpk)
 - [Performance de Build Estático com NextJS | Otimizando 7 VEZES!!!](https://www.youtube.com/watch?v=PZpVxXdMqzw)
 - [3 Dicas sobre segurança da informação a nível de código, empresa e entretenimento!](https://www.youtube.com/watch?v=FEEqSQ3-C6M)
 - [Como foi a DevLeadersConf? #DevSoutinhoTour feat. @Alura Cursos Online](https://www.youtube.com/watch?v=CNwypLx2B1E)
-- [Como documentar código? Dicas para entrevista e projetos profissionais/pessoais](https://www.youtube.com/watch?v=lTjwm1CghDY)
 <!-- YOUTUBE:END -->
 
 ____
