@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [React vs Flutter Web, qual opção utilizar nos seus projetos? Flutter é &quot;mais pesado&quot;?](https://www.youtube.com/watch?v=6fe3DYGpCzs)
 - [ReactJS: Guia básico para começar - Parte 01](https://www.youtube.com/watch?v=o5LJyOUUqpk)
 - [Performance de Build Estático com NextJS | Otimizando 7 VEZES!!!](https://www.youtube.com/watch?v=PZpVxXdMqzw)
 - [3 Dicas sobre segurança da informação a nível de código, empresa e entretenimento!](https://www.youtube.com/watch?v=FEEqSQ3-C6M)
-- [Como foi a DevLeadersConf? #DevSoutinhoTour feat. @Alura Cursos Online](https://www.youtube.com/watch?v=CNwypLx2B1E)
 <!-- YOUTUBE:END -->
 
 ____
