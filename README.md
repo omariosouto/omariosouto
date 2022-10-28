@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Onde, como e o que praticar e estudar como Front End em 2022? FREE 0800](https://www.youtube.com/watch?v=rk9WA1PXsYs)
 - [Como usar variáveis no CSS](https://www.youtube.com/watch?v=Cz6RRsvvHIY)
 - [O que é NodeJS?](https://www.youtube.com/watch?v=M8XzAgaW38I)
 - [React vs Flutter Web, qual opção utilizar nos seus projetos? Flutter é &quot;mais pesado&quot;?](https://www.youtube.com/watch?v=6fe3DYGpCzs)
-- [ReactJS: Guia básico para começar - Parte 01](https://www.youtube.com/watch?v=o5LJyOUUqpk)
 <!-- YOUTUBE:END -->
 
 ____
