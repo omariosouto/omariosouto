@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Como usar variáveis no CSS](https://www.youtube.com/watch?v=Cz6RRsvvHIY)
 - [O que é NodeJS?](https://www.youtube.com/watch?v=M8XzAgaW38I)
 - [React vs Flutter Web, qual opção utilizar nos seus projetos? Flutter é &quot;mais pesado&quot;?](https://www.youtube.com/watch?v=6fe3DYGpCzs)
 - [ReactJS: Guia básico para começar - Parte 01](https://www.youtube.com/watch?v=o5LJyOUUqpk)
-- [Performance de Build Estático com NextJS | Otimizando 7 VEZES!!!](https://www.youtube.com/watch?v=PZpVxXdMqzw)
 <!-- YOUTUBE:END -->
 
 ____
