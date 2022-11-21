@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Live ESPECIAL de #BlackFriday feat. @AluraOnline](https://www.youtube.com/watch?v=3Qfuxs_QDJI)
 - [Pra onde vai, o ecossistema JavaScript/React?](https://www.youtube.com/watch?v=FajFTHy3DCQ)
 - [Gerando Imagens com NextJS 13!](https://www.youtube.com/watch?v=HdQ1Ggzr5DQ)
 - [Onde, como e o que praticar e estudar como Front End em 2022? FREE 0800](https://www.youtube.com/watch?v=rk9WA1PXsYs)
-- [Como usar variáveis no CSS](https://www.youtube.com/watch?v=Cz6RRsvvHIY)
 <!-- YOUTUBE:END -->
 
 ____
