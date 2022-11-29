@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [GitHub Universe! Tour pelo evento no vale do silício #DevTour](https://www.youtube.com/watch?v=8RpwIUxkGVg)
 - [Live ESPECIAL de #BlackFriday feat. @AluraOnline](https://www.youtube.com/watch?v=3Qfuxs_QDJI)
 - [Tour pelos escritórios do GitHub em São Francisco! #DevTour feat. @Alura Cursos Online](https://www.youtube.com/watch?v=vlbxcTqwAHk)
 - [Pra onde vai, o ecossistema JavaScript/React?](https://www.youtube.com/watch?v=FajFTHy3DCQ)
-- [Gerando Imagens com NextJS 13!](https://www.youtube.com/watch?v=HdQ1Ggzr5DQ)
 <!-- YOUTUBE:END -->
 
 ____
