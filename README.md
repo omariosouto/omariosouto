@@ -11,8 +11,8 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
-- [OBRIGADO! Como foi meu 2022? Canal, CCXP, Jovem Nerd, Hipsters e muito mais!](https://www.youtube.com/watch?v=3tPzMsyRn1A)
 - [Configurando um servidor de Discord #DevSoutinhoLabs](https://www.youtube.com/watch?v=GF68sUeXAco)
+- [OBRIGADO! Como foi meu 2022? Canal, CCXP, Jovem Nerd, Hipsters e muito mais!](https://www.youtube.com/watch?v=3tPzMsyRn1A)
 - [3 erros de todo dev comete o u já cometeu #DevSoutinhoDicas](https://www.youtube.com/watch?v=OgoA-RQRXCg)
 - [Uncaught TypeError: Cannot read properties of undefined | RESOLVIDO!](https://www.youtube.com/watch?v=IQTQhhDiWLE)
 <!-- YOUTUBE:END -->
