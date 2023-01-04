@@ -1,0 +1,57 @@
+{
+  "name": "Nome do Guia",
+  "expertise": [
+    {
+      "name": "Nivel 1 - Básico",
+      "cards": [
+        {
+          "name": "Nome do Cartão",
+          "description": "Descrição do Cartão",
+          "link": "Link do Cartão"
+        }
+      ]
+    },
+    {
+      "name": "Nivel 2 - Intermediário",
+      "cards": [
+        {
+          "name": "Nome do Cartão",
+          "description": "Descrição do Cartão",
+          "link": "Link do Cartão"
+        }
+      ]
+    },
+    {
+      "name": "Nivel 3 - Avançado",
+      "cards": [
+        {
+          "name": "Nome do Cartão",
+          "description": "Descrição do Cartão",
+          "link": "Link do Cartão"
+        }
+      ]
+    }
+  ],
+  "collaboration": [
+    {
+      "name": "Lado Esquerdo do T",
+      "cards": [
+        {
+          "name": "Nome do Cartão",
+          "description": "Descrição do Cartão",
+          "link": "Link do Cartão"
+        }
+      ]
+    },
+    {
+      "name": "Lado Direito do T",
+      "cards": [
+        {
+          "name": "Nome do Cartão",
+          "description": "Descrição do Cartão",
+          "link": "Link do Cartão"
+        }
+      ]
+    }
+  ]
+}
