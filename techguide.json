@@ -5,53 +5,40 @@
       "name": "Nivel 1 - Básico",
       "cards": [
         {
-          "name": "Nome do Cartão",
+          "name": "Nome do Cartão Customizado",
           "description": "Descrição do Cartão",
-          "link": "Link do Cartão"
+          "link": "Link do Cartão",
+          "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "Node.js - Documentation",
+              "link": "https://nodejs.dev/en/learn/"
+            }
+          ]
+        },
+        {
+          "id": "nodejs-fundamentals"
         }
       ]
     },
     {
       "name": "Nivel 2 - Intermediário",
-      "cards": [
-        {
-          "name": "Nome do Cartão",
-          "description": "Descrição do Cartão",
-          "link": "Link do Cartão"
-        }
-      ]
+      "cards": []
     },
     {
       "name": "Nivel 3 - Avançado",
-      "cards": [
-        {
-          "name": "Nome do Cartão",
-          "description": "Descrição do Cartão",
-          "link": "Link do Cartão"
-        }
-      ]
+      "cards": []
     }
   ],
   "collaboration": [
     {
       "name": "Lado Esquerdo do T",
-      "cards": [
-        {
-          "name": "Nome do Cartão",
-          "description": "Descrição do Cartão",
-          "link": "Link do Cartão"
-        }
-      ]
+      "cards": []
     },
     {
       "name": "Lado Direito do T",
-      "cards": [
-        {
-          "name": "Nome do Cartão",
-          "description": "Descrição do Cartão",
-          "link": "Link do Cartão"
-        }
-      ]
+      "cards": []
     }
   ]
 }
