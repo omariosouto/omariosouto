@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Como adicionar o Chat GPT no seu projeto e &quot;driblar&quot; a API LOTADA!  🚫](https://www.youtube.com/watch?v=BSJs_9UqRR8)
 - [O que é framework? #DevSoutinho](https://www.youtube.com/watch?v=7OcEyVjJbj4)
 - [APIs da Web que você não conhecem e podem mudar seu trabalho! feat. Fugu Team](https://www.youtube.com/watch?v=V5DzdAuqzhw)
 - [Configurando um servidor de Discord #DevSoutinhoLabs](https://www.youtube.com/watch?v=GF68sUeXAco)
-- [OBRIGADO! Como foi meu 2022? Canal, CCXP, Jovem Nerd, Hipsters e muito mais!](https://www.youtube.com/watch?v=3tPzMsyRn1A)
 <!-- YOUTUBE:END -->
 
 ____
