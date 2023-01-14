@@ -7,8 +7,7 @@
         {
           "name": "Nome do Cartão Customizado",
           "description": "Descrição do Cartão",
-          "link": "Link do Cartão",
-          "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
+          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
           "contents": [
             {
               "type": "SITE",
