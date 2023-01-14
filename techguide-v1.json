@@ -23,7 +23,23 @@
     },
     {
       "name": "Nivel 2 - Intermediário",
-      "cards": []
+      "cards": [
+        {
+          "name": "Nome do Cartão Customizado 2",
+          "description": "Descrição do Cartão 2",
+          "keyObjectives": ["Objetivo 1.2", "Objetivo 2.2", "Objetivo 3.2"],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "Node.js - Documentation",
+              "link": "https://nodejs.dev/en/learn/"
+            }
+          ]
+        },
+        {
+          "id": "apollo-client"
+        }
+      ]
     },
     {
       "name": "Nivel 3 - Avançado",
@@ -33,7 +49,23 @@
   "collaborations": [
     {
       "name": "Lado Esquerdo do T",
-      "cards": []
+      "cards": [
+        {
+          "name": "Nome do Cartão Customizado Lateral ESQ",
+          "description": "Descrição do Cartão 1 Lateral ESQ",
+          "keyObjectives": ["Objetivo 1 Lateral ESQ", "Objetivo 2 Lateral ESQ", "Objetivo 3 Lateral ESQ"],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "Node.js - Documentation",
+              "link": "https://nodejs.dev/en/learn/"
+            }
+          ]
+        },
+        {
+          "id": "apollo-client"
+        }
+      ]
     },
     {
       "name": "Lado Direito do T",
