@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [O que você precisa saber pra começar com ReactJS! #ReactJS #FrontEnd](https://www.youtube.com/watch?v=00_rIYoeJtQ)
 - [O começo do #DevSoutinhoLabs! Desafios, aprendizado e muito mais!](https://www.youtube.com/watch?v=iJdmi4TYPIg)
 - [Como adicionar o Chat GPT no seu projeto e &quot;driblar&quot; a API LOTADA!  🚫](https://www.youtube.com/watch?v=BSJs_9UqRR8)
 - [O que é framework? #DevSoutinho](https://www.youtube.com/watch?v=7OcEyVjJbj4)
-- [APIs da Web que você não conhecem e podem mudar seu trabalho! feat. Fugu Team](https://www.youtube.com/watch?v=V5DzdAuqzhw)
 <!-- YOUTUBE:END -->
 
 ____
