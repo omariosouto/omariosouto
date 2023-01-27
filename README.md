@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Quando usar forEach e quando usar o map?](https://www.youtube.com/watch?v=DbhuGObNNuE)
 - [DE GRAÇA! Quer dar seus primeiros passos no mundo da programação? CORRE LÁ! imersao.dev #ImersaoDev](https://www.youtube.com/watch?v=RGnrMBpNIP0)
 - [O que você precisa saber pra começar com ReactJS! #ReactJS #FrontEnd](https://www.youtube.com/watch?v=00_rIYoeJtQ)
 - [O começo do #DevSoutinhoLabs! Desafios, aprendizado e muito mais!](https://www.youtube.com/watch?v=iJdmi4TYPIg)
-- [Como adicionar o Chat GPT no seu projeto e &quot;driblar&quot; a API LOTADA!  🚫](https://www.youtube.com/watch?v=BSJs_9UqRR8)
 <!-- YOUTUBE:END -->
 
 ____
