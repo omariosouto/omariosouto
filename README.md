@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Overengineering vs Underengineering, refletindo sobre um dos maiores problemas de todos os Devs?](https://www.youtube.com/watch?v=KV9-cPXx9d8)
 - [Quando usar forEach e quando usar o map?](https://www.youtube.com/watch?v=DbhuGObNNuE)
 - [DE GRAÇA! Quer dar seus primeiros passos no mundo da programação? CORRE LÁ! imersao.dev #ImersaoDev](https://www.youtube.com/watch?v=RGnrMBpNIP0)
 - [O que você precisa saber pra começar com ReactJS! #ReactJS #FrontEnd](https://www.youtube.com/watch?v=00_rIYoeJtQ)
-- [O começo do #DevSoutinhoLabs! Desafios, aprendizado e muito mais!](https://www.youtube.com/watch?v=iJdmi4TYPIg)
 <!-- YOUTUBE:END -->
 
 ____
