@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [O que SEO? #shorts](https://www.youtube.com/watch?v=R1ffcgVkOyA)
 - [Lógica por traz dos cheats em jogos! #shorts](https://www.youtube.com/watch?v=KmM7NO2_PQU)
 - [Overengineering vs Underengineering, refletindo sobre um dos maiores problemas de todos os Devs?](https://www.youtube.com/watch?v=KV9-cPXx9d8)
 - [Quando usar forEach e quando usar o map?](https://www.youtube.com/watch?v=DbhuGObNNuE)
-- [DE GRAÇA! Quer dar seus primeiros passos no mundo da programação? CORRE LÁ! imersao.dev #ImersaoDev](https://www.youtube.com/watch?v=RGnrMBpNIP0)
 <!-- YOUTUBE:END -->
 
 ____
