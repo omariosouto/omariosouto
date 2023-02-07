@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Novidades no JavaScript/TC39 em 2023 #JSBoladão feat. @wmsbill](https://www.youtube.com/watch?v=PMZtjiAlVsk)
 - [O que SEO? #shorts](https://www.youtube.com/watch?v=R1ffcgVkOyA)
 - [Lógica por traz dos cheats em jogos! #shorts](https://www.youtube.com/watch?v=KmM7NO2_PQU)
 - [Overengineering vs Underengineering, refletindo sobre um dos maiores problemas de todos os Devs?](https://www.youtube.com/watch?v=KV9-cPXx9d8)
-- [Quando usar forEach e quando usar o map?](https://www.youtube.com/watch?v=DbhuGObNNuE)
 <!-- YOUTUBE:END -->
 
 ____
