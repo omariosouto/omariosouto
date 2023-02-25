@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Como fazer um círculo com CSS? #DevGuide](https://www.youtube.com/watch?v=VKk7VIQKlak)
 - [Vite com React do ZERO em 20min! - Como eu aprendo algo novo?](https://www.youtube.com/watch?v=Q0z_uK9Egt0)
 - [Imutabilidade no JavaScript e como ela faz programarmos melhor na linguagem sem tipagem](https://www.youtube.com/watch?v=V0itE71YZdo)
 - [O que é variável? #shorts #DevGuide](https://www.youtube.com/watch?v=3ZQmfyGyrew)
-- [Novidades no JavaScript/TC39 em 2023 #JSBoladão feat. @wmsbill](https://www.youtube.com/watch?v=PMZtjiAlVsk)
 <!-- YOUTUBE:END -->
 
 ____
