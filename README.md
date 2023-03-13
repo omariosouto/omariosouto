@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Faz sentido aprender/estudar várias linguagens de programação?](https://www.youtube.com/watch?v=-5lJSJqFA1s)
 - [DevTour com @JovemNerd feat. Fatala mas sem a Lu DIRETO DO MAGALU](https://www.youtube.com/watch?v=54y7TyhebCc)
 - [CSS Defensivo: as dicas de CSS que você não sabia que precisava](https://www.youtube.com/watch?v=K7NfPH-vMuA)
 - [O que é um site? Como é feito um site?](https://www.youtube.com/watch?v=KYk3RBdqGgk)
-- [Como fazer um círculo com CSS? #DevGuide](https://www.youtube.com/watch?v=VKk7VIQKlak)
 <!-- YOUTUBE:END -->
 
 ____
