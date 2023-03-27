@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Imagens de compartilhamento de URL automatizadas 🤖! Como gerar OG Images?](https://www.youtube.com/watch?v=teI6nIkscwg)
 - [O que é Back End? em menos de 1 minuto](https://www.youtube.com/watch?v=4hTa9azQwqY)
 - [O que é Java? Como aprender mais sobre?](https://www.youtube.com/watch?v=ZVjPhf3_DP8)
 - [DevSoutinho Responde: Promises, Injeção de Dependências e Memoization](https://www.youtube.com/watch?v=-7tkXFkypN0)
-- [Faz sentido aprender/estudar várias linguagens de programação?](https://www.youtube.com/watch?v=-5lJSJqFA1s)
 <!-- YOUTUBE:END -->
 
 ____
