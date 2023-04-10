@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [PRs com GitHub Next, MDN 10x e código melhor com GitHub Next e CopilotX](https://www.youtube.com/watch?v=ht-ctp25kUU)
 - [Como criar um Card Game? Base, História, Comprando Domínio e Site no ar #001](https://www.youtube.com/watch?v=OpBCTyNxOIA)
 - [Imagens de compartilhamento de URL automatizadas 🤖! Como gerar OG Images?](https://www.youtube.com/watch?v=teI6nIkscwg)
 - [O que é Back End? em menos de 1 minuto](https://www.youtube.com/watch?v=4hTa9azQwqY)
-- [O que é Java? Como aprender mais sobre?](https://www.youtube.com/watch?v=ZVjPhf3_DP8)
 <!-- YOUTUBE:END -->
 
 ____
