@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Ta impossível arrumar emprego Júnior em TI como DEV em 2023? Vale a pena tentar?](https://www.youtube.com/watch?v=Bh1AO7z4zQ8)
 - [OSCAR DOS SITES com Victor Work, Front End e Creative code! #DevSoutinhoEntrevista](https://www.youtube.com/watch?v=m2aL4eUO9qE)
 - [Code Review Tech Guide + Acessibilidade com Gabriel Teixeira](https://www.youtube.com/watch?v=TO5iKQnZKTw)
 - [Experiments with AI 001 #Captions - #DSIA 001 🇺🇸](https://www.youtube.com/watch?v=5ksFvu-4IAA)
-- [Experimentos com IA 001 #Captions - #DSIA 001 🇧🇷](https://www.youtube.com/watch?v=ZNhiYMSJ6Ao)
 <!-- YOUTUBE:END -->
 
 ____
