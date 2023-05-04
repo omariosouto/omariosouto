@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Dúvidas que muita gente tem trabalhando como Dev | PS: Eu também tive #CRUDComQualidade](https://www.youtube.com/watch?v=BU23kCiKlYg)
 - [5 top apps que eu mais gosto de usar no MacOS!](https://www.youtube.com/watch?v=CFYVwLlJRPc)
 - [OSCAR DOS SITES com Victor Work, Front End e Creative code! #DevSoutinhoEntrevista](https://www.youtube.com/watch?v=m2aL4eUO9qE)
 - [Ta impossível arrumar emprego Júnior em TI como DEV em 2023? Vale a pena tentar?](https://www.youtube.com/watch?v=Bh1AO7z4zQ8)
-- [Code Review Tech Guide + Acessibilidade com Gabriel Teixeira](https://www.youtube.com/watch?v=TO5iKQnZKTw)
 <!-- YOUTUBE:END -->
 
 ____
