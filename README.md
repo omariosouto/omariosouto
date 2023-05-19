@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [JavaScript ou TypeScript? Qual Escolher? Faz sentido?](https://www.youtube.com/watch?v=FL1N4AP_uQ4)
 - [PHP é ruim ou um exemplo a ser seguido? Reflexões sobre Server Components](https://www.youtube.com/watch?v=0xs_pwxmEVk)
 - [Preview de código! 🤯 QuokkaJS O plugin que faltava no seu VSCode](https://www.youtube.com/watch?v=mSg1FIVvzwk)
 - [Dúvidas que muita gente tem trabalhando como Dev | PS: Eu também tive #CRUDComQualidade](https://www.youtube.com/watch?v=BU23kCiKlYg)
-- [5 top apps que eu mais gosto de usar no MacOS!](https://www.youtube.com/watch?v=CFYVwLlJRPc)
 <!-- YOUTUBE:END -->
 
 ____
