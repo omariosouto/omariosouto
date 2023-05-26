@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [&quot;Bons devs nascem em startups&quot; ou &quot;bons devs são pessoas curiosas&quot;?](https://www.youtube.com/watch?v=BqQlBevWInw)
 - [JavaScript ou TypeScript? Qual Escolher? Faz sentido?](https://www.youtube.com/watch?v=FL1N4AP_uQ4)
 - [PHP é ruim ou um exemplo a ser seguido? Reflexões sobre Server Components](https://www.youtube.com/watch?v=0xs_pwxmEVk)
 - [Preview de código! 🤯 QuokkaJS O plugin que faltava no seu VSCode](https://www.youtube.com/watch?v=mSg1FIVvzwk)
-- [Dúvidas que muita gente tem trabalhando como Dev | PS: Eu também tive #CRUDComQualidade](https://www.youtube.com/watch?v=BU23kCiKlYg)
 <!-- YOUTUBE:END -->
 
 ____
