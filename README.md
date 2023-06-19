@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [O dia está mais triste para quem compra domínio e não faz projetos 😞](https://www.youtube.com/watch?v=t_VDxAp979A)
 - [A tecnologia “odiada” que mais me ensinou sobre software](https://www.youtube.com/watch?v=oBM5NomVtak)
 - [Spielberg, Jogador Número 1 e Apple Vision PRO!](https://www.youtube.com/watch?v=gfYiBaYCQec)
 - [React além da Web e dos Apps! 10 anos de React, possibilidades em 2023](https://www.youtube.com/watch?v=1lnKUrELeMA)
-- [&quot;Bons devs nascem em startups&quot; ou &quot;bons devs são pessoas curiosas&quot;?](https://www.youtube.com/watch?v=BqQlBevWInw)
 <!-- YOUTUBE:END -->
 
 ____
