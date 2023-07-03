@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [REACT: Como aprender Python? B&amp;RR0 Na força do ódio feat. @Fiasco vibe. @Casimiro #ReactsDoSoutinho](https://www.youtube.com/watch?v=8ZJ8gomM1CE)
 - [PRODUTIVIDADE ESSENCIAL 10/10 - Top 3 dicas, para usar melhor o MacOS](https://www.youtube.com/watch?v=XsHS4qF_xMQ)
 - [O dia está mais triste para quem compra domínio e não faz projetos 😞](https://www.youtube.com/watch?v=t_VDxAp979A)
 - [A tecnologia “odiada” que mais me ensinou sobre software](https://www.youtube.com/watch?v=oBM5NomVtak)
-- [Spielberg, Jogador Número 1 e Apple Vision PRO!](https://www.youtube.com/watch?v=gfYiBaYCQec)
 <!-- YOUTUBE:END -->
 
 ____
