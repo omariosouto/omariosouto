@@ -11,7 +11,7 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
-- [O jeito mais eficiente de trabalhar eXTreme Go Horse, e o processo de centavos](https://www.youtube.com/watch?v=MdpuPkkBP_4)
+- [VOCÊ NÃO ADMITE! O jeito mais eficiente de trabalhar eXTreme Go Horse, e o processo de centavos](https://www.youtube.com/watch?v=MdpuPkkBP_4)
 - [FIM DO FRONT END parte 2 x Design Patterns com IA e Mágia](https://www.youtube.com/watch?v=ECkTaA-H1YQ)
 - [REACT: Como aprender Python? B&amp;RR0 Na força do ódio feat. @Fiasco vibe. @Casimiro #ReactsDoSoutinho](https://www.youtube.com/watch?v=8ZJ8gomM1CE)
 - [PRODUTIVIDADE ESSENCIAL 10/10 - Top 3 dicas, para usar melhor o MacOS](https://www.youtube.com/watch?v=XsHS4qF_xMQ)
