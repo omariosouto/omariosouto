@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [O ChatGPT vai tirar seu emprego, mas é de outro jeito!](https://www.youtube.com/watch?v=RzrLyCSuq0s)
 - [Frost Punk: zerando em 4 horas!](https://www.youtube.com/watch?v=ic42GYw3qzY)
 - [🦠 NASA x PDFs x Acumuladores e vírus no seu roteador](https://www.youtube.com/watch?v=_4rLM53yuyQ)
 - [VOCÊ NÃO ADMITE! O jeito mais eficiente de trabalhar eXTreme Go Horse, e o processo de centavos](https://www.youtube.com/watch?v=MdpuPkkBP_4)
-- [FIM DO FRONT END parte 2 x Design Patterns com IA e Mágia](https://www.youtube.com/watch?v=ECkTaA-H1YQ)
 <!-- YOUTUBE:END -->
 
 ____
