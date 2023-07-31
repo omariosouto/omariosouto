@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Sênior de 2 anos e o júnior de 10, anos de experiência fazem tanta diferença?](https://www.youtube.com/watch?v=T_Vh9cD6K0k)
 - [Trocando ideia e falando de #CRUDComQualidade](https://www.youtube.com/watch?v=s_NDuO1z88I)
 - [O ChatGPT vai tirar seu emprego, mas é de outro jeito!](https://www.youtube.com/watch?v=RzrLyCSuq0s)
 - [Frost Punk: zerando em 4 horas!](https://www.youtube.com/watch?v=ic42GYw3qzY)
-- [🦠 NASA x PDFs x Acumuladores e vírus no seu roteador](https://www.youtube.com/watch?v=_4rLM53yuyQ)
 <!-- YOUTUBE:END -->
 
 ____
