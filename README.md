@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Comediante ou Dev? Review do passado por ManoSoutin .feat Deyvin do Multiverso](https://www.youtube.com/watch?v=zYAIdTcJErI)
 - [Introdução a temas com CSS - CRUDs com Qualidade](https://www.youtube.com/watch?v=GfF4kVHTO_M)
 - [Experiências e vivências sobre Monolitos vs Microserviços - ESPECIAL Codecon Feature](https://www.youtube.com/watch?v=kmUW7YCKYmM)
 - [A evolução do ecossistema React veio com o maior erro da Vercel?](https://www.youtube.com/watch?v=jztnqv6xxm8)
-- [Sênior de 2 anos e o júnior de 10, anos de experiência fazem tanta diferença?](https://www.youtube.com/watch?v=T_Vh9cD6K0k)
 <!-- YOUTUBE:END -->
 
 ____
