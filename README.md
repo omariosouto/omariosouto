@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [O que é melhor para fazer jogos? #DevSoutinhoResponde](https://www.youtube.com/watch?v=FAw_fdPpCVw)
 - [A importância do meu primeiro deploy, dúvidas comuns e onde foi! NodeJS, PHP e outras dicas!](https://www.youtube.com/watch?v=pbc7NhacXmI)
 - [Introdução a temas com CSS - CRUDs com Qualidade](https://www.youtube.com/watch?v=GfF4kVHTO_M)
 - [Experiências e vivências sobre Monolitos vs Microserviços - ESPECIAL Codecon Feature](https://www.youtube.com/watch?v=kmUW7YCKYmM)
-- [Comediante ou Dev? Review do passado por ManoSoutin .feat Deyvin do Multiverso](https://www.youtube.com/watch?v=zYAIdTcJErI)
 <!-- YOUTUBE:END -->
 
 ____
