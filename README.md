@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Como não programar errado? Reflexões sobre tendências, novidades e como estudar em tecnologia](https://www.youtube.com/watch?v=uI5Qo7lchNM)
 - [Como enviar e-mails com NodeJS/Bun! Mais rápido que fazer um miojo](https://www.youtube.com/watch?v=wWQ4gnvS020)
 - [A que linha chegamos!??? - Live Surpresa #CRUDComQualidade](https://www.youtube.com/watch?v=sJeQza4ihY8)
 - [E-MAILS! Uma tour sobre eles em 2023 | Como enviar e-mails via código de forma moderna?](https://www.youtube.com/watch?v=7JnfviLThNE)
-- [O que é melhor para fazer jogos? #DevSoutinhoResponde](https://www.youtube.com/watch?v=FAw_fdPpCVw)
 <!-- YOUTUBE:END -->
 
 ____
