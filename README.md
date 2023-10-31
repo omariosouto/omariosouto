@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [IMPRESSIONANTE 🤯 as Novidades do CSS em 2023! Cada dia menos triste](https://www.youtube.com/watch?v=knmw1TeInGQ)
 - [Como estimar entregas de software? A coisa mais difícil em programação](https://www.youtube.com/watch?v=yexJiT5SbAI)
 - [Web x Mobile o que muda na hora de PROGRAMAR entre as plataformas?](https://www.youtube.com/watch?v=t51Vvl8Tp1Q)
 - [Um overview sobre modelagem de software com hobbies | Como modelar um programa?](https://www.youtube.com/watch?v=MQMah1OXQP0)
-- [Ferramentas GRATUITAS para Devs e uma lista que você PRECISA estudar!](https://www.youtube.com/watch?v=XCtmlmKx9Lk)
 <!-- YOUTUBE:END -->
 
 ____
