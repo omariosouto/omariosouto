@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Entrevistas: Como ir bem na etapa de live code | LIVE Coding like a PRO](https://www.youtube.com/watch?v=9duht5jjPpQ)
 - [React Server Components, Evento NextJS e a &quot;Vercel vai atrapalhar com o React&quot;?](https://www.youtube.com/watch?v=6Lij2NCBFg0)
 - [Eu tenho certeza que seu próximo projeto vai ser um CRUD!](https://www.youtube.com/watch?v=DTKrEz6j38o)
 - [Como aprender a programar melhor? Software do Mundo real vs Software de Mentira](https://www.youtube.com/watch?v=O_1FKhcBHgA)
-- [IMPRESSIONANTE 🤯 as Novidades do CSS em 2023! Cada dia menos triste](https://www.youtube.com/watch?v=knmw1TeInGQ)
 <!-- YOUTUBE:END -->
 
 ____
