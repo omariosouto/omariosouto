@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [PSN Caseira com Video games, Programação e soluções Dev para problemas com Hobbies](https://www.youtube.com/watch?v=DdFW2Qxv4Vg)
 - [3 Dicas pra ser um Dev Pior, a segunda é a MELHOR de todas](https://www.youtube.com/watch?v=6a7i5ZEarbc)
 - [Progamando no escuro feat. Code in the Dark #EnergiaFrontEnd](https://www.youtube.com/watch?v=MmafG5EYNNc)
 - [Entrevistas: Como ir bem na etapa de live code | LIVE Coding like a PRO](https://www.youtube.com/watch?v=9duht5jjPpQ)
-- [React Server Components, Evento NextJS e a &quot;Vercel vai atrapalhar com o React&quot;?](https://www.youtube.com/watch?v=6Lij2NCBFg0)
 <!-- YOUTUBE:END -->
 
 ____
