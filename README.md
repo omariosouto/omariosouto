@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Análise de Requisitos vs Otimização Prematura? Você sabe lidar bem? #DesafioDev](https://www.youtube.com/watch?v=rNK6Hy2Z2kg)
 - [Você acredita demais em seus payloads! Como trabalhar com any e unknown no TypeScript](https://www.youtube.com/watch?v=0rkD8V77h6o)
 - [Setup alternativo ou baixo custo usando CodeSpaces | SEM PROCESSAMENTO LOCAL!*](https://www.youtube.com/watch?v=vWEb0PdUl3M)
 - [PSN Caseira com Video games, Programação e soluções Dev para problemas com Hobbies](https://www.youtube.com/watch?v=DdFW2Qxv4Vg)
-- [3 Dicas pra ser um Dev Pior, a segunda é a MELHOR de todas](https://www.youtube.com/watch?v=6a7i5ZEarbc)
 <!-- YOUTUBE:END -->
 
 ____
