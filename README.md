@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [VOCÊ Dev, sabe o que de fato é o Date.now do JavaScript?](https://www.youtube.com/watch?v=Rn2TA02_5tU)
 - [Desenvolvimento Remoto | Acelere seu Projeto com Ambiente no GitHub #Shorts](https://www.youtube.com/watch?v=m9UKv0sZ3qg)
 - [Fazer bolo ou dar a receita? O dilema do onboarding e de treinar pessoas mais Júniors](https://www.youtube.com/watch?v=P_gGkJwhOJs)
 - [Análise de Requisitos vs Otimização Prematura? Você sabe lidar bem? #DesafioDev](https://www.youtube.com/watch?v=rNK6Hy2Z2kg)
-- [Você acredita demais em seus payloads! Como trabalhar com any e unknown no TypeScript](https://www.youtube.com/watch?v=0rkD8V77h6o)
 <!-- YOUTUBE:END -->
 
 ____
