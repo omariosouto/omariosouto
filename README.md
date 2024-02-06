@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Como lidar com o onboarding de pessoas novas no seu time?](https://www.youtube.com/watch?v=SJHRUi350go)
 - [QUEBROU! O estado atual do processo de contratação em TI .feat Tabnews](https://www.youtube.com/watch?v=y-uceSP5kBA)
 - [VOCÊ Dev, sabe o que de fato é o Date.now do JavaScript?](https://www.youtube.com/watch?v=Rn2TA02_5tU)
 - [Desenvolvimento Remoto | Acelere seu Projeto com Ambiente no GitHub #Shorts](https://www.youtube.com/watch?v=m9UKv0sZ3qg)
-- [Fazer bolo ou dar a receita? O dilema do onboarding e de treinar pessoas mais Júniors](https://www.youtube.com/watch?v=P_gGkJwhOJs)
 <!-- YOUTUBE:END -->
 
 ____
