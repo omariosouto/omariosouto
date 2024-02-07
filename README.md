@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [O SEGREDO da variável event ou e do addEventListener 🤯](https://www.youtube.com/watch?v=K4rfYn5SvtA)
 - [Como lidar com o onboarding de pessoas novas no seu time?](https://www.youtube.com/watch?v=SJHRUi350go)
 - [QUEBROU! O estado atual do processo de contratação em TI .feat Tabnews](https://www.youtube.com/watch?v=y-uceSP5kBA)
 - [VOCÊ Dev, sabe o que de fato é o Date.now do JavaScript?](https://www.youtube.com/watch?v=Rn2TA02_5tU)
-- [Desenvolvimento Remoto | Acelere seu Projeto com Ambiente no GitHub #Shorts](https://www.youtube.com/watch?v=m9UKv0sZ3qg)
 <!-- YOUTUBE:END -->
 
 ____
