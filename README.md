@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Implementando o jQuery DO ZERO! Uma tour pela história do Front End](https://www.youtube.com/watch?v=gfX7tC9_3nE)
 - [ENGENHARIA REVERSA 🔥 Como VOCÊ pode implementar o React!](https://www.youtube.com/watch?v=rCJJkzvA6vA)
 - [O SEGREDO da variável event ou e do addEventListener 🤯](https://www.youtube.com/watch?v=K4rfYn5SvtA)
 - [Como lidar com o onboarding de pessoas novas no seu time?](https://www.youtube.com/watch?v=SJHRUi350go)
-- [QUEBROU! O estado atual do processo de contratação em TI .feat Tabnews](https://www.youtube.com/watch?v=y-uceSP5kBA)
 <!-- YOUTUBE:END -->
 
 ____
