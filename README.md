@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [TOP Eventos canonicos na vida de um Dev .feat Xuitter](https://www.youtube.com/watch?v=_CZ7_Xq48l4)
 - [Como fazer validação por Schema com TypeScript na PRÁTICA!](https://www.youtube.com/watch?v=5CqfzNdaqKw)
 - [Implementando o jQuery DO ZERO! Uma tour pela história do Front End](https://www.youtube.com/watch?v=gfX7tC9_3nE)
 - [ENGENHARIA REVERSA 🔥 Como VOCÊ pode implementar o React!](https://www.youtube.com/watch?v=rCJJkzvA6vA)
-- [O SEGREDO da variável event ou e do addEventListener 🤯](https://www.youtube.com/watch?v=K4rfYn5SvtA)
 <!-- YOUTUBE:END -->
 
 ____
