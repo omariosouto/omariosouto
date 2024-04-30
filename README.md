@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [COMO implementar uma politica de cache com expiração? DESAFIO: NodeJS, AWS S3 e TEMPO!](https://www.youtube.com/watch?v=lNORW8z-ftw)
 - [COMO ESCALAR? Como auto completar os 5200 municípios do Brasil para milhares de usuários?](https://www.youtube.com/watch?v=TxEJ-YYCasY)
 - [Já parou pra pensar o que acontece quando você roda &quot;npm run dev&quot;? 🤔](https://www.youtube.com/watch?v=pdgpgaFaDV8)
 - [VOCÊ SABIA?! O que tem por trás de npm run dev? Debugando o Tooling JS #DebaixoDosPanos](https://www.youtube.com/watch?v=QTQGsZnKtv4)
-- [TOP Eventos canonicos na vida de um Dev .feat Xuitter](https://www.youtube.com/watch?v=_CZ7_Xq48l4)
 <!-- YOUTUBE:END -->
 
 ____
