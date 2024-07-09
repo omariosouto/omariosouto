@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Da pra usar HTMX em Produção? feat. Hackhatons](https://www.youtube.com/watch?v=hvOUboy1k6w)
 - [ARQUITETURA: Como implementar o wordle ou termo.oo com IA e Ads | Engenharia reversa. #GoogleADS](https://www.youtube.com/watch?v=zZ0RhVT8TIU)
 - [Angular vs Flutter vs Android JetPack Compose, por que 3 frameworks?? feat. #GoogleIO](https://www.youtube.com/watch?v=9yx7D3_yWrk)
 - [COMO implementar uma politica de cache com expiração? DESAFIO: NodeJS, AWS S3 e TEMPO!](https://www.youtube.com/watch?v=lNORW8z-ftw)
-- [COMO ESCALAR? Como auto completar os 5200 municípios do Brasil para milhares de usuários?](https://www.youtube.com/watch?v=TxEJ-YYCasY)
 <!-- YOUTUBE:END -->
 
 ____
