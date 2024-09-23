@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Como vender seu código na praia! feat. Devs Produteiros](https://www.youtube.com/watch?v=Jdbx9PhSktg)
 - [É o fim do hiato? Saúde, Trabalho, Casamento e CONTEÚDO!](https://www.youtube.com/watch?v=ZorkvTo1M9k)
 - [Da pra usar HTMX em Produção? feat. Hackhatons &amp; E-commerces](https://www.youtube.com/watch?v=hvOUboy1k6w)
 - [ARQUITETURA: Como implementar o wordle ou termo.oo com IA e Ads | Engenharia reversa. #GoogleADS](https://www.youtube.com/watch?v=zZ0RhVT8TIU)
-- [Angular vs Flutter vs Android JetPack Compose, por que 3 frameworks?? feat. #GoogleIO](https://www.youtube.com/watch?v=9yx7D3_yWrk)
 <!-- YOUTUBE:END -->
 
 ____
