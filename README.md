@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [LIVE SURPRESA - Hacker Rank com Desafios de JavaScript](https://www.youtube.com/watch?v=lOYSFfMDXiE)
 - [Como vender seu código na praia! feat. Devs Produteiros](https://www.youtube.com/watch?v=Jdbx9PhSktg)
 - [É o fim do hiato? Saúde, Trabalho, Casamento e CONTEÚDO!](https://www.youtube.com/watch?v=ZorkvTo1M9k)
 - [Da pra usar HTMX em Produção? feat. Hackhatons &amp; E-commerces](https://www.youtube.com/watch?v=hvOUboy1k6w)
-- [ARQUITETURA: Como implementar o wordle ou termo.oo com IA e Ads | Engenharia reversa. #GoogleADS](https://www.youtube.com/watch?v=zZ0RhVT8TIU)
 <!-- YOUTUBE:END -->
 
 ____
