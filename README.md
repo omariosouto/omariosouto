@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Como trabalhar com dinheiro em programação? Lidando com valores monetários com código](https://www.youtube.com/watch?v=IH_rzjz4_N8)
 - [LIVE SURPRESA - Hacker Rank com Desafios de JavaScript](https://www.youtube.com/watch?v=lOYSFfMDXiE)
 - [Como vender seu código na praia! feat. Devs Produteiros](https://www.youtube.com/watch?v=Jdbx9PhSktg)
 - [É o fim do hiato? Saúde, Trabalho, Casamento e CONTEÚDO!](https://www.youtube.com/watch?v=ZorkvTo1M9k)
-- [Da pra usar HTMX em Produção? feat. Hackhatons &amp; E-commerces](https://www.youtube.com/watch?v=hvOUboy1k6w)
 <!-- YOUTUBE:END -->
 
 ____
