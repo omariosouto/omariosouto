@@ -12,7 +12,7 @@ Would you like to find me?
 
 <!-- YOUTUBE:START -->
 - [Abstrações, Segurança na Web e bate papo, bora codar?](https://www.youtube.com/watch?v=GcigBNiQC38)
-- [LIVE Code + Bate papo + O que der na telha na hora!](https://www.youtube.com/watch?v=H-XED5SLJTM)
+- [LIVE Code + Bate papo + O que der na telha na hora! feat. Gemini](https://www.youtube.com/watch?v=H-XED5SLJTM)
 - [VÍDEO SURPRESA - Mini Cobertura com novidades do #GitHubUniverse](https://www.youtube.com/watch?v=9BHRdXV4Elo)
 - [SEM MOTORISTA? Andando de #Waymo em São Francisco](https://www.youtube.com/watch?v=zRRUH-n1eAk)
 <!-- YOUTUBE:END -->
