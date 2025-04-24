@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [AVISO: Live postergada 😢](https://www.youtube.com/watch?v=90uXzsE_QE4)
 - [#003 Leet Code com Desafios de JavaScript feat. @wmsbill | JS Boladão Edition](https://www.youtube.com/watch?v=TutN9nac9Dw)
 - [Leet Code com Desafios de JavaScript feat. @wmsbill #002 | JS Boladão Edition](https://www.youtube.com/watch?v=BxM58fWynFY)
 - [Hacker Rank com Desafios de JavaScript feat. @wmsbill](https://www.youtube.com/watch?v=_KqiVCQZ3Ak)
-- [Abstrações, Segurança na Web e bate papo, bora codar?](https://www.youtube.com/watch?v=GcigBNiQC38)
 <!-- YOUTUBE:END -->
 
 ____
