@@ -11,7 +11,7 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
-- [Dúvidas de Front End, Califórnia e Papos aleatórios feat. @Wmsbill | VLOG - 001](https://www.youtube.com/watch?v=VZlQuxRLdIM)
+- [Esquilos, Front End, Califórnia e Papos aleatórios feat. @Wmsbill | VLOG - 001](https://www.youtube.com/watch?v=VZlQuxRLdIM)
 - [TRY CATCH É RUIM??? Refletindo sobre erros no JavaScript feat @wmsbill](https://www.youtube.com/watch?v=CBLlplohlGk)
 - [Em busca da internet pra live parte 2](https://www.youtube.com/watch?v=JvJ_jnIRcjg)
 - [AVISO: Live postergada 😢](https://www.youtube.com/watch?v=90uXzsE_QE4)
