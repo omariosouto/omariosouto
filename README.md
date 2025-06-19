@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [#005 Leet Code com Desafios de JavaScript feat. @wmsbill | JS Boladão Edition](https://www.youtube.com/watch?v=Of8Uh48HCnc)
 - [&quot;AI GEMINAI???&quot; Bastidores do Google IO 2025 com destaque para #WebAI](https://www.youtube.com/watch?v=iOTQ5a3axag)
 - [Esquilos, Front End, Califórnia e Papos aleatórios feat. @Wmsbill | VLOG - 001](https://www.youtube.com/watch?v=VZlQuxRLdIM)
 - [TRY CATCH É RUIM??? Refletindo sobre erros no JavaScript feat @wmsbill](https://www.youtube.com/watch?v=CBLlplohlGk)
-- [Em busca da internet pra live parte 2](https://www.youtube.com/shorts/JvJ_jnIRcjg)
 <!-- YOUTUBE:END -->
 
 ____
