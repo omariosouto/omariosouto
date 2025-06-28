@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [GEMINI CLI? Aprenda a usar a LLM do google sem sair do seu editor!](https://www.youtube.com/shorts/faU1_wWTjT4)
 - [COPILOT NO COMANDO?! Conhecendo o modo Agente do GitHub Copilot](https://www.youtube.com/shorts/eeyjTdzC_Kw)
 - [Mais de MIL DÓLARES em benefícios só por ser ESTUDANTE? #GitHubStudentPack](https://www.youtube.com/shorts/vux6A_G5m1A)
 - [#005 Leet Code com Desafios de JavaScript feat. @wmsbill | JS Boladão Edition](https://www.youtube.com/watch?v=Of8Uh48HCnc)
-- [&quot;AI GEMINAI???&quot; Bastidores do Google IO 2025 com destaque para #WebAI](https://www.youtube.com/watch?v=iOTQ5a3axag)
 <!-- YOUTUBE:END -->
 
 ____
