@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Um overview sobre AI feat. Gemini &amp; wmsbill](https://www.youtube.com/watch?v=tebiXz9uU0A)
 - [Conceitos de IA que você precisa aprender AGORA!](https://www.youtube.com/shorts/eP421pJ4ht0)
 - [GEMINI CLI? Aprenda a usar a LLM do google sem sair do seu editor!](https://www.youtube.com/shorts/faU1_wWTjT4)
 - [COPILOT NO COMANDO?! Conhecendo o modo Agente do GitHub Copilot](https://www.youtube.com/shorts/eeyjTdzC_Kw)
-- [Mais de MIL DÓLARES em benefícios só por ser ESTUDANTE? #GitHubStudentPack](https://www.youtube.com/shorts/vux6A_G5m1A)
 <!-- YOUTUBE:END -->
 
 ____
