@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [IF no CSS? Que magia é essa?](https://www.youtube.com/shorts/qjtjctQP80c)
 - [Um overview sobre AI feat. Gemini &amp; wmsbill](https://www.youtube.com/watch?v=tebiXz9uU0A)
 - [Conceitos de IA que você precisa aprender AGORA!](https://www.youtube.com/shorts/eP421pJ4ht0)
 - [GEMINI CLI? Aprenda a usar a LLM do google sem sair do seu editor!](https://www.youtube.com/shorts/faU1_wWTjT4)
-- [COPILOT NO COMANDO?! Conhecendo o modo Agente do GitHub Copilot](https://www.youtube.com/shorts/eeyjTdzC_Kw)
 <!-- YOUTUBE:END -->
 
 ____
