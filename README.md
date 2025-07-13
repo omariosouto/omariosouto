@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
-- [LIVE ✨ - Clair Obscure Expedition 33 #FALA+JOGA](https://www.youtube.com/watch?v=BUE_k8BzYRw)
 - [IA rodando NATIVAMENTE NO BROWSER? Conheça o window.ai](https://www.youtube.com/shorts/2a_N_AVEnZI)
 - [IF no CSS? Que magia é essa?](https://www.youtube.com/shorts/qjtjctQP80c)
 - [Um overview sobre AI feat. Gemini &amp; wmsbill](https://www.youtube.com/watch?v=tebiXz9uU0A)
+- [Conceitos de IA que você precisa aprender AGORA!](https://www.youtube.com/shorts/eP421pJ4ht0)
 <!-- YOUTUBE:END -->
 
 ____
