@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [#008 Leet Code com Desafios de JavaScript feat. @wmsbill | JS Boladão Edition](https://www.youtube.com/watch?v=QCyu52Cym3k)
 - [#007 Leet Code com Desafios de JavaScript feat. @wmsbill | JS Boladão Edition](https://www.youtube.com/watch?v=7ZkaSNSutoA)
 - [IA rodando NATIVAMENTE NO BROWSER? Conheça o window.ai](https://www.youtube.com/shorts/2a_N_AVEnZI)
 - [IF no CSS? Que magia é essa?](https://www.youtube.com/shorts/qjtjctQP80c)
-- [Um overview sobre AI feat. Gemini &amp; wmsbill](https://www.youtube.com/watch?v=tebiXz9uU0A)
 <!-- YOUTUBE:END -->
 
 ____
