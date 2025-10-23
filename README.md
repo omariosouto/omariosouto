@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Qual seria o MÍNIMO de arquitetura para trabalhar com UI em escala?](https://www.youtube.com/watch?v=7Tj0q5S8-DI)
 - [#009 Leet Code com Desafios de JavaScript feat. @wmsbill | JS Boladão Edition](https://www.youtube.com/watch?v=nPF8NtX3nK8)
 - [#008 Leet Code com Desafios de JavaScript feat. @wmsbill | JS Boladão Edition](https://www.youtube.com/watch?v=QCyu52Cym3k)
 - [#007 Leet Code com Desafios de JavaScript feat. @wmsbill | JS Boladão Edition](https://www.youtube.com/watch?v=7ZkaSNSutoA)
-- [IA rodando NATIVAMENTE NO BROWSER? Conheça o window.ai](https://www.youtube.com/shorts/2a_N_AVEnZI)
 <!-- YOUTUBE:END -->
 
 ____
