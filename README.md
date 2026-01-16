@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [#010 Claude Code, Gemini e state of AI feat. @wmsbill | JS Boladão Edition](https://www.youtube.com/watch?v=C8oYLyaC1MY)
 - [O Paradoxo da IA: Por que codamos 4x mais rápido, mas não entregamos 4x mais?](https://www.youtube.com/watch?v=D8W8x90kUng)
 - [Qual seria o MÍNIMO de arquitetura para trabalhar com UI em escala?](https://www.youtube.com/watch?v=7Tj0q5S8-DI)
 - [#009 Leet Code com Desafios de JavaScript feat. @wmsbill | JS Boladão Edition](https://www.youtube.com/watch?v=nPF8NtX3nK8)
-- [#008 Leet Code com Desafios de JavaScript feat. @wmsbill | JS Boladão Edition](https://www.youtube.com/watch?v=QCyu52Cym3k)
 <!-- YOUTUBE:END -->
 
 ____
