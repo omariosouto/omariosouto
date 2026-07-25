@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Papo de buteco tech - feat. Will](https://www.youtube.com/watch?v=nmGebeQZ2es)
 - [IA Experiment: Tentando provar se vibe-coding compensa](https://www.youtube.com/watch?v=LQ12LMyGtdo)
 - [Impacto real da ia, momento NOVO do canal e #GoogleNext?](https://www.youtube.com/watch?v=kYimK4FCi7g)
 - [#010 Claude Code, Gemini e state of AI feat. @wmsbill | JS Boladão Edition](https://www.youtube.com/watch?v=C8oYLyaC1MY)
-- [O Paradoxo da IA: Por que codamos 4x mais rápido, mas não entregamos 4x mais?](https://www.youtube.com/watch?v=D8W8x90kUng)
 <!-- YOUTUBE:END -->
 
 ____
