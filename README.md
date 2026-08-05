@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Pare de complicar projetos simples](https://www.youtube.com/shorts/U43Tq_B0uWo)
 - [Vai ter trampo? COMO COMEÇAR como dev HOJE, na era da IA](https://www.youtube.com/watch?v=vaRQYHp1jlQ)
 - [Papo de buteco tech - feat. Will](https://www.youtube.com/watch?v=nmGebeQZ2es)
 - [IA Experiment: Tentando provar se vibe-coding compensa](https://www.youtube.com/watch?v=LQ12LMyGtdo)
-- [Impacto real da ia, momento NOVO do canal e #GoogleNext?](https://www.youtube.com/watch?v=kYimK4FCi7g)
 <!-- YOUTUBE:END -->
 
 ____
