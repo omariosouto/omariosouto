@@ -12,7 +12,7 @@ Would you like to find me?
 
 <!-- YOUTUBE:START -->
 - [Pare de complicar projetos simples](https://www.youtube.com/shorts/U43Tq_B0uWo)
-- [Vai ter trampo? COMO COMEÇAR como dev HOJE, na era da IA](https://www.youtube.com/watch?v=vaRQYHp1jlQ)
+- [QUEM vai precisar saber ler código? - Como virar &quot;dev&quot; HOJE, na era da IA](https://www.youtube.com/watch?v=vaRQYHp1jlQ)
 - [Papo de buteco tech - feat. Will](https://www.youtube.com/watch?v=nmGebeQZ2es)
 - [IA Experiment: Tentando provar se vibe-coding compensa](https://www.youtube.com/watch?v=LQ12LMyGtdo)
 <!-- YOUTUBE:END -->
