@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [COMO esse vídeo chegou até você com IA - Bastidores da volta do canal](https://www.youtube.com/watch?v=eC2QMQ0b9vk)
 - [Pare de complicar projetos simples](https://www.youtube.com/shorts/U43Tq_B0uWo)
 - [QUEM vai precisar saber ler código? - Como virar &quot;dev&quot; HOJE, na era da IA](https://www.youtube.com/watch?v=vaRQYHp1jlQ)
 - [Papo de buteco tech - feat. Will](https://www.youtube.com/watch?v=nmGebeQZ2es)
-- [IA Experiment: Tentando provar se vibe-coding compensa](https://www.youtube.com/watch?v=LQ12LMyGtdo)
 <!-- YOUTUBE:END -->
 
 ____
