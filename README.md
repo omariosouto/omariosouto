@@ -11,7 +11,7 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
-- [Todo dev é um músico frustrado - Como eu aprendo teclado no meu &quot;Guitar Hero&quot;](https://www.youtube.com/watch?v=AImQaJedIfE)
+- [Todo dev é um músico frustrado - Como eu aprendo no meu &quot;Guitar Hero&quot;](https://www.youtube.com/watch?v=AImQaJedIfE)
 - [Quão difícil é ter um bom harness genérico pra IA?](https://www.youtube.com/shorts/5O6VHJCqj4o)
 - [Como cancelei 6 assinaturas e zerei o custo mensal do canal?](https://www.youtube.com/watch?v=eC2QMQ0b9vk)
 - [Pare de complicar projetos simples](https://www.youtube.com/shorts/U43Tq_B0uWo)
