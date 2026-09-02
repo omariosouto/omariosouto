@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [ECONOMIZANDO com assinaturas de IA? Segue a dica!](https://www.youtube.com/shorts/dwmgxHs4g1s)
 - [ZERO Reais, tenha seu Jarvis PARTICULAR | Criando um assistente pessoal de verdade](https://www.youtube.com/watch?v=149-j75zadY)
 - [Da pra fazer com IA algo que você não faz a menor ideia?](https://www.youtube.com/shorts/i808zsbZAMU)
 - [Todo dev é um músico frustrado - Como eu aprendo no meu &quot;Guitar Hero&quot;](https://www.youtube.com/watch?v=AImQaJedIfE)
-- [Quão difícil é ter um bom harness genérico pra IA?](https://www.youtube.com/shorts/5O6VHJCqj4o)
 <!-- YOUTUBE:END -->
 
 ____
