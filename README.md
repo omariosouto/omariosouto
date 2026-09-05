@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [JS Boladão - Papo de buteco feat. AI Edition](https://www.youtube.com/watch?v=8TFSg1jWme4)
 - [Ainda vale a pena saber os detalhes do que a IA está fazendo?](https://www.youtube.com/shorts/iTnth36qt8A)
 - [O ÚLTIMO VIDEO sobre OBSIDIAN que você vai precisar](https://www.youtube.com/watch?v=14LBfwaTU6U)
 - [ECONOMIZANDO com assinaturas de IA? Segue a dica!](https://www.youtube.com/shorts/dwmgxHs4g1s)
-- [ZERO Reais, tenha seu Jarvis PARTICULAR | Criando um assistente pessoal de verdade](https://www.youtube.com/watch?v=149-j75zadY)
 <!-- YOUTUBE:END -->
 
 ____
