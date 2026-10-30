@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Programar virou GTA com código?](https://www.youtube.com/watch?v=HZSB8GG_GDQ)
 - [Como funciona meu fluxo atual de IA com foco em ser simples](https://www.youtube.com/watch?v=1bmO4BaVclY)
 - [CRTD? O que é? Trabalhando com sincronização de edição com múltiplos usuários](https://www.youtube.com/shorts/rcSmoqkj11M)
 - [Entendendo os principais termos atuais do mundo de IA | Glossário de LLMs e IA](https://www.youtube.com/watch?v=hnNJnCYQh4g)
-- [JS Boladão - Papo de buteco feat. AI Edition](https://www.youtube.com/watch?v=8TFSg1jWme4)
 <!-- YOUTUBE:END -->
 
 ____
