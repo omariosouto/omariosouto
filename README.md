@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [A IA já escreve boa parte do código, mas colocar um produto de verdade no ar da trabalho, né?](https://www.youtube.com/shorts/nYnt-kO5TLM)
 - [Programar virou GTA com código?](https://www.youtube.com/watch?v=HZSB8GG_GDQ)
 - [Como funciona meu fluxo atual de IA com foco em ser simples](https://www.youtube.com/watch?v=1bmO4BaVclY)
 - [CRTD? O que é? Trabalhando com sincronização de edição com múltiplos usuários](https://www.youtube.com/shorts/rcSmoqkj11M)
-- [Entendendo os principais termos atuais do mundo de IA | Glossário de LLMs e IA](https://www.youtube.com/watch?v=hnNJnCYQh4g)
 <!-- YOUTUBE:END -->
 
 ____
