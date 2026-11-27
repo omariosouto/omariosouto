@@ -11,10 +11,10 @@ Would you like to find me?
 ### 📹 Recent Videos on YouTube!
 
 <!-- YOUTUBE:START -->
+- [Você tá complicando demais seus projetos?](https://www.youtube.com/shorts/O7SfOawd0hY)
 - [Qual o risco dos seus side projects?](https://www.youtube.com/watch?v=51I0lbrjcmc)
 - [A IA já escreve boa parte do código, mas colocar um produto de verdade no ar da trabalho, né?](https://www.youtube.com/shorts/nYnt-kO5TLM)
 - [Programar virou GTA com código?](https://www.youtube.com/watch?v=HZSB8GG_GDQ)
-- [Como funciona meu fluxo atual de IA com foco em ser simples](https://www.youtube.com/watch?v=1bmO4BaVclY)
 <!-- YOUTUBE:END -->
 
 ____
